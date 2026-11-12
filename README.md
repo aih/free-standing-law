@@ -10,6 +10,9 @@ how the text of each section has changed.
 |---|---|
 | `tools/textchange/` | Ranks a title's sections by how many words of their text changed across the US Code mirror's release points, and writes a redline for each change (`tools/textchange/README.md`) |
 | `analysis/textchange/` | That ranking for titles 11 and 24: `top.tsv`, `sections.tsv`, `transitions.tsv`, `summary.json`, `redlines.json`, `index.html` |
+| `tools/uncodified/` | For one title, every section of the laws that went into it and where each section is now: the title, another title, a statutory note, or nowhere in the Code (`tools/uncodified/README.md`) |
+| `analysis/uncodified/` | Those tables for titles 11 and 24: `tN.md`, `tN.csv`, `tN.json` |
+| `docs/uncodified.md` | Findings from those tables, written by hand: Pub. L. 95-598's free-standing provisions and their relation to title 11, the pattern in later amending Acts, title 24 and its draft bill |
 
 Files under `analysis/` are generated; regenerate them rather than editing them. `data/` holds
 caches and downloads and is not committed.
@@ -17,6 +20,21 @@ caches and downloads and is not committed.
 Python 3.11 or later with `lxml`. Commands are run from the repository root.
 
 ## Build log
+
+### 2026-11-12: provisions of the source laws not in titles 11 and 24
+
+Moved here from aih/codification-bills, where it was built and not committed. `tools/uncodified/`
+indexes every title's source credits and statutory notes at release point 119-138, reads each
+source law's table of contents from the statutes API (`statutes.linkedlegislation.org`), and
+disposes of each section. Title 11: 869 sections of 83 laws, 262 not in the text of any title.
+Title 24: 185 sections of 61 laws, 44 not in the text of any title, joined to the draft bill's
+dispositions in aih/codification-bills `drafts/t24/bill.toml`. Findings in `docs/uncodified.md`.
+
+Re-check: `python3 -m tools.uncodified fetch-code && python3 -m tools.uncodified index &&
+python3 -m tools.uncodified fetch 11 && python3 -m tools.uncodified run 11` (and 24, with
+aih/codification-bills checked out beside this repository); with the same release point and
+statutes API the outputs do not change. `python3 -m unittest discover -s tools/uncodified/tests -t .`
+runs 11 tests.
 
 ### 2026-11-12: text change ranking for titles 11 and 24
 
