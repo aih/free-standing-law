@@ -1,0 +1,263 @@
+<title>Most-Amended Sections, Titles 11 and 24</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: a ranked docket on the left with a shared 2013–2026 time axis on every row;
+   the selected section's redlines read like a marked-up slip law on the right. */
+:root {
+  --paper: #f7f8f6;
+  --sheet: #ffffff;
+  --ink: #1d2327;
+  --ink-2: #4d5a60;
+  --ink-3: #78858b;
+  --rule: #d9dfdd;
+  --accent: #23566e;
+  --heat: #23566e;
+  --heat-weak: #c8dbe3;
+  --ins: #0f6b47;
+  --ins-bg: #dff2e8;
+  --del: #a0302b;
+  --del-bg: #f9e1df;
+  --t11: #23566e;
+  --t24: #8a5a12;
+  --serif: "Source Serif 4", Georgia, "Times New Roman", serif;
+  --sans: "IBM Plex Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --mono: "IBM Plex Mono", ui-monospace, Menlo, Consolas, monospace;
+}
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
+  --paper: #141a1d; --sheet: #1b2226; --ink: #e3e8e9; --ink-2: #aab6ba; --ink-3: #7f8c91; --rule: #2e383d;
+  --accent: #7fb6cf; --heat: #8cc3dc; --heat-weak: #2b4652;
+  --ins: #7fd6aa; --ins-bg: #173a2a; --del: #f0938c; --del-bg: #44201e; --t11: #8cc3dc; --t24: #e0b366;
+  color-scheme: dark; } }
+:root[data-theme="dark"] {
+  --paper: #141a1d; --sheet: #1b2226; --ink: #e3e8e9; --ink-2: #aab6ba; --ink-3: #7f8c91; --rule: #2e383d;
+  --accent: #7fb6cf; --heat: #8cc3dc; --heat-weak: #2b4652;
+  --ins: #7fd6aa; --ins-bg: #173a2a; --del: #f0938c; --del-bg: #44201e; --t11: #8cc3dc; --t24: #e0b366;
+  color-scheme: dark; }
+* { box-sizing: border-box; }
+body { background: var(--paper); color: var(--ink); font: 15px/1.5 var(--sans); }
+.wrap { max-width: 1500px; margin: 0 auto; padding-block: 28px 48px;
+  padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); }
+header h1 { font: 600 1.75rem/1.2 var(--serif); margin: 0 0 6px; text-wrap: balance; }
+header p { margin: 0; color: var(--ink-2); max-width: 75ch; }
+.facts { display: flex; flex-wrap: wrap; gap: 10px 28px; margin: 16px 0 22px; font-size: .85rem; color: var(--ink-2); }
+.facts b { font: 500 1.05rem var(--mono); color: var(--ink); font-variant-numeric: tabular-nums; display: block; }
+.grid { display: grid; grid-template-columns: minmax(0, 560px) minmax(0, 1fr); gap: 24px; align-items: start; }
+@media (max-width: 1000px) { .grid { grid-template-columns: minmax(0, 1fr); } }
+.panel { background: var(--sheet); border: 1px solid var(--rule); border-radius: 6px; min-width: 0; }
+.list-head { display: flex; justify-content: space-between; align-items: center; gap: 8px; flex-wrap: wrap; padding: 10px 14px; border-bottom: 1px solid var(--rule); }
+.list-head h2, .detail h2 { font: 600 .78rem var(--sans); letter-spacing: .06em; text-transform: uppercase; color: var(--ink-2); margin: 0; }
+.seg { display: inline-flex; border: 1px solid var(--rule); border-radius: 4px; overflow: hidden; }
+.seg button { font: 500 .78rem var(--sans); background: none; border: 0; padding: 4px 10px; color: var(--ink-2); cursor: pointer; }
+.seg button[aria-pressed="true"] { background: var(--accent); color: var(--sheet); }
+button:focus-visible, .row:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.axis, .row { display: grid; grid-template-columns: 30px minmax(0, 1fr) 52px 150px; gap: 8px; align-items: center; padding: 6px 14px; }
+.axis { font: .68rem var(--mono); color: var(--ink-3); padding-block: 6px 2px; }
+.axis .ticks { grid-column: 4; position: relative; height: 14px; }
+.axis .ticks span { position: absolute; transform: translateX(-50%); }
+.rows { max-height: 78vh; overflow-y: auto; }
+.row { border-top: 1px solid var(--rule); cursor: pointer; background: none; width: 100%; text-align: left; color: inherit; font: inherit; border-left: 0; border-right: 0; border-bottom: 0; }
+.row:hover { background: color-mix(in srgb, var(--accent) 6%, transparent); }
+.row[aria-current="true"] { background: color-mix(in srgb, var(--accent) 12%, transparent); }
+.rank { font: .78rem var(--mono); color: var(--ink-3); text-align: right; font-variant-numeric: tabular-nums; }
+.who { min-width: 0; }
+.cite { font: 500 .86rem var(--mono); }
+.cite .t { display: inline-block; font-size: .66rem; padding: 0 5px; border-radius: 3px; margin-right: 6px; border: 1px solid currentColor; vertical-align: 1px; }
+.t11 { color: var(--t11); } .t24 { color: var(--t24); }
+.hd { font: .8rem/1.3 var(--serif); color: var(--ink-2); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.num { font: 500 .82rem var(--mono); text-align: right; font-variant-numeric: tabular-nums; }
+.spark { width: 150px; height: 22px; display: block; }
+.detail { padding: 18px 20px 24px; }
+.detail h3 { font: 600 1.4rem/1.25 var(--serif); margin: 4px 0 2px; text-wrap: balance; }
+.meta { color: var(--ink-2); font-size: .85rem; display: flex; flex-wrap: wrap; gap: 4px 18px; margin-bottom: 14px; }
+.meta a { color: var(--accent); }
+.timeline { width: 100%; height: 92px; display: block; margin: 6px 0 4px; overflow: visible; }
+.legend { display: flex; flex-wrap: wrap; gap: 14px; font-size: .78rem; color: var(--ink-2); margin: 4px 0 14px; }
+.legend i { font-style: normal; padding: 0 4px; border-radius: 2px; }
+.tabs { display: flex; flex-wrap: wrap; gap: 6px; margin: 8px 0 12px; }
+.tab { font: 500 .78rem var(--mono); border: 1px solid var(--rule); background: var(--sheet); color: var(--ink-2); border-radius: 4px; padding: 4px 8px; cursor: pointer; }
+.tab[aria-pressed="true"] { border-color: var(--accent); color: var(--ink); box-shadow: inset 0 -2px 0 var(--accent); }
+.tab small { color: var(--ink-3); font-weight: 400; }
+.change-head { font-size: .85rem; color: var(--ink-2); margin: 0 0 10px; }
+.change-head b { color: var(--ink); font-weight: 600; }
+.law { font: .78rem var(--mono); background: color-mix(in srgb, var(--accent) 10%, transparent); color: var(--ink); padding: 1px 6px; border-radius: 3px; margin-right: 4px; white-space: nowrap; }
+.text { font: 1rem/1.6 var(--serif); max-width: 78ch; overflow-wrap: anywhere; }
+.text p { margin: 0 0 .35em; }
+.text .gap { font: .75rem var(--sans); color: var(--ink-3); margin: .4em 0 .6em; padding: 2px 0; border-top: 1px dashed var(--rule); border-bottom: 1px dashed var(--rule); text-align: center; }
+ins { text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 3px; color: var(--ins); background: var(--ins-bg); border-radius: 2px; padding: 0 1px; }
+del { text-decoration: line-through; color: var(--del); background: var(--del-bg); border-radius: 2px; padding: 0 1px; }
+.note { font-size: .82rem; color: var(--ink-2); max-width: 78ch; }
+details.method { margin-top: 28px; }
+details.method summary { cursor: pointer; font: 600 .9rem var(--sans); }
+details.method div { max-width: 80ch; color: var(--ink-2); font-size: .9rem; }
+.tip { position: fixed; pointer-events: none; background: var(--ink); color: var(--paper); font: .75rem/1.35 var(--sans); padding: 6px 8px; border-radius: 4px; z-index: 5; max-width: 260px; }
+@media (max-width: 560px) {
+  .axis, .row { grid-template-columns: 26px minmax(0, 1fr) 48px; }
+  .axis .ticks, .spark { display: none; }
+}
+@media (prefers-reduced-motion: no-preference) { .row { transition: background .12s; } }
+</style>
+
+<div class="wrap">
+  <header>
+    <h1>Most-amended sections of Titles 11 and 24</h1>
+    <p id="lede"></p>
+  </header>
+  <div class="facts" id="facts"></div>
+  <div class="grid">
+    <section class="panel" aria-label="Ranked sections">
+      <div class="list-head">
+        <h2>Ranked by words changed</h2>
+        <div class="seg" role="group" aria-label="Filter by title">
+          <button type="button" id="f-all" aria-pressed="true" data-f="all">Both</button>
+          <button type="button" id="f-11" aria-pressed="false" data-f="11">Title 11</button>
+          <button type="button" id="f-24" aria-pressed="false" data-f="24">Title 24</button>
+        </div>
+      </div>
+      <div class="axis" aria-hidden="true"><span></span><span>Section</span><span style="text-align:right">Words</span><div class="ticks" id="ticks"></div></div>
+      <div class="rows" id="rows"></div>
+    </section>
+    <section class="panel detail" id="detail" aria-live="polite"></section>
+  </div>
+  <details class="method" id="method"><summary>Method</summary><div id="method-body"></div></details>
+</div>
+<div class="tip" id="tip" hidden></div>
+
+<script>
+const DATA = /*DATA*/null;
+const $ = (s, el = document) => el.querySelector(s);
+const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const fmt = n => n.toLocaleString("en-US");
+const T0 = Date.parse("2013-01-01"), T1 = Date.parse("2027-01-01");
+const xFrac = d => (Date.parse(d) - T0) / (T1 - T0);
+const YEARS = [2014, 2017, 2020, 2023, 2026];
+const TOP = DATA.top;
+const maxChurn = Math.max(...TOP.flatMap(r => r.transitions.map(t => t.churn)));
+const slug = r => `t${r.title}-${r.identifier.split("/").pop()}`;
+const cite = r => `${r.title} U.S.C. ${r.identifier.split("/").pop().replace(/^s/, "§ ")}`;
+const tip = $("#tip");
+function showTip(e, html) { tip.innerHTML = html; tip.hidden = false; const x = Math.min(e.clientX + 12, innerWidth - 270); tip.style.left = x + "px"; tip.style.TOP = (e.clientY + 14) + "px"; }
+function hideTip() { tip.hidden = true; }
+
+// facts
+const s = DATA.summary;
+$("#facts").innerHTML = Object.entries(s).map(([t, v]) =>
+  `<div><b>${fmt(v.sections_with_substantive_change)} of ${fmt(v.sections)}</b>sections of title ${t} with a text change</div>
+   <div><b>${fmt(v.substantive_churn_words)}</b>words changed in title ${t}</div>`).join("") +
+  `<div><b>${DATA.window.from} – ${DATA.window.to}</b>release points compared</div>`;
+
+$("#ticks").innerHTML = YEARS.map(y => `<span style="left:${xFrac(y + "-01-01") * 100}%">${y}</span>`).join("");
+
+function spark(r) {
+  const W = 150, H = 22;
+  const marks = r.transitions.map(t => {
+    const x = 3 + xFrac(t.date) * (W - 6);
+    const h = Math.max(3, Math.sqrt(t.churn / maxChurn) * (H - 2));
+    return `<rect x="${(x - 2).toFixed(1)}" y="${(H - h).toFixed(1)}" width="4" height="${h.toFixed(1)}" rx="1" fill="var(--heat)"/>`;
+  }).join("");
+  return `<svg class="spark" viewBox="0 0 ${W} ${H}" aria-hidden="true"><line x1="0" x2="${W}" y1="${H - .5}" y2="${H - .5}" stroke="var(--rule)"/>${marks}</svg>`;
+}
+
+let filter = "all", current = null;
+function renderRows() {
+  const rows = TOP.filter(r => filter === "all" || r.title === filter);
+  $("#rows").innerHTML = rows.map(r => `
+    <button type="button" class="row" id="row-${slug(r)}" data-slug="${slug(r)}" aria-current="${current === slug(r)}">
+      <span class="rank">${r.rank}</span>
+      <span class="who"><div class="cite t${r.title}"><span class="t">T${r.title}</span>${esc(r.identifier.split("/").pop().replace(/^s/, "§ "))}</div>
+        <div class="hd">${esc(r.heading)}</div></span>
+      <span class="num">${fmt(r.substantive_churn)}</span>
+      ${spark(r)}
+    </button>`).join("") || `<p class="note" style="padding:14px">No sections of this title are in the TOP 50.</p>`;
+}
+document.querySelectorAll(".seg button").forEach(b => b.addEventListener("click", () => {
+  filter = b.dataset.f;
+  document.querySelectorAll(".seg button").forEach(x => x.setAttribute("aria-pressed", x === b));
+  renderRows();
+}));
+$("#rows").addEventListener("click", e => { const b = e.target.closest(".row"); if (b) location.hash = b.dataset.slug; });
+
+function redlineHTML(rows) {
+  return rows.map(row => {
+    if (row.gap) return `<div class="gap">${fmt(row.gap)} unchanged ${row.gap === 1 ? "line" : "lines"}</div>`;
+    const body = row.s.map(([op, t]) => op === "+" ? `<ins>${esc(t)}</ins>` : op === "-" ? `<del>${esc(t)}</del>` : esc(t)).join(" ");
+    return `<p style="padding-left:${Math.min(row.d, 7) * 1.4}em">${body}</p>`;
+  }).join("");
+}
+
+function timeline(r) {
+  const W = 800, H = 92, L = 10, R = 10, base = 60;
+  const xs = d => L + xFrac(d) * (W - L - R);
+  const maxT = Math.max(...r.transitions.map(t => t.churn), 1);
+  const yearTicks = [];
+  for (let y = 2013; y <= 2026; y++) yearTicks.push(`<line x1="${xs(y + "-01-01")}" x2="${xs(y + "-01-01")}" y1="${base}" y2="${base + 4}" stroke="var(--ink-3)"/>` +
+    (y % 2 === 1 ? `<text x="${xs(y + "-01-01")}" y="${base + 18}" text-anchor="middle" font-size="11" fill="var(--ink-3)" font-family="IBM Plex Mono, monospace">${y}</text>` : ""));
+  const first = r.versions[0];
+  const bars = r.transitions.map((t, i) => {
+    const x = xs(t.date), h = Math.max(4, (t.churn / maxT) * (base - 14));
+    const ih = h * t.inserted / Math.max(t.churn, 1);
+    return `<g class="tl-mark" data-i="${i}" style="cursor:pointer">
+      <rect x="${x - 14}" y="0" width="28" height="${base + 4}" fill="transparent"/>
+      <rect x="${x - 5}" y="${base - h}" width="10" height="${(h - ih).toFixed(1)}" rx="2" fill="var(--del)"/>
+      <rect x="${x - 5}" y="${(base - ih).toFixed(1)}" width="10" height="${ih.toFixed(1)}" rx="0" fill="var(--ins)"/>
+      <text x="${x}" y="${base - h - 4}" text-anchor="middle" font-size="11" fill="var(--ink-2)" font-family="IBM Plex Mono, monospace">${fmt(t.churn)}</text></g>`;
+  }).join("");
+  return `<svg class="timeline" viewBox="0 0 ${W} ${H}" role="img" aria-label="Words changed at each release point">
+    <line x1="${L}" x2="${W - R}" y1="${base}" y2="${base}" stroke="var(--rule)" stroke-width="1.5"/>
+    ${yearTicks.join("")}
+    <circle cx="${xs(first.date)}" cy="${base}" r="4" fill="var(--sheet)" stroke="var(--ink-3)" stroke-width="1.5"/>
+    ${bars}</svg>`;
+}
+
+function showDetail(r, which) {
+  const ts = r.transitions;
+  if (which == null) which = ts.reduce((best, t, i) => t.churn > ts[best].churn ? i : best, 0);
+  const tabs = ts.map((t, i) => `<button type="button" class="tab" data-w="${i}" aria-pressed="${which === i}">${esc(t.to)} <small>${t.editorial ? "editorial" : fmt(t.churn)}</small></button>`).join("") +
+    (r.net_redline ? `<button type="button" class="tab" data-w="net" aria-pressed="${which === "net"}">${esc(r.versions[0].release)} → ${esc(r.versions.at(-1).release)} <small>net</small></button>` : "");
+  let head, body;
+  if (which === "net") {
+    head = `First text held (${esc(r.versions[0].release)}, ${esc(r.versions[0].date)}) against the latest (${esc(r.versions.at(-1).release)}, ${esc(r.versions.at(-1).date)}): <b>${fmt(r.net_churn)}</b> words changed net, against <b>${fmt(r.churn)}</b> counted change by change.`;
+    body = r.net_redline;
+  } else {
+    const t = ts[which];
+    const laws = t.laws.length ? t.laws.map(l => `<span class="law">Pub. L. ${esc(l.replace("-", "–"))}</span>`).join("") : `<span class="note">no classifying law recorded</span>`;
+    head = `<b>${esc(t.from)}</b> → <b>${esc(t.to)}</b> (release point of ${esc(t.date)}): <b>${fmt(t.inserted)}</b> words inserted, <b>${fmt(t.deleted)}</b> deleted. ${laws}` +
+      (t.status_after !== t.status_before ? ` <span class="law">status: ${esc(t.status_before || "in force")} → ${esc(t.status_after || "in force")}</span>` : "") +
+      (t.editorial ? ` <span class="law">editorial: “of this …” only, not counted</span>` : "") +
+      (t.caveat ? `<div class="note">${esc(t.caveat)}</div>` : "");
+    body = t.redline;
+  }
+  const url = `https://uscode.linkedlegislation.org/app${r.identifier}`;
+  $("#detail").innerHTML = `
+    <h2>Rank ${r.rank} of ${TOP.length}</h2>
+    <h3>${esc(cite(r))}. ${esc(r.heading)}</h3>
+    <div class="meta"><span>${fmt(r.text_changes)} text ${r.text_changes === 1 ? "change" : "changes"}</span><span>${fmt(r.words_first)} → ${fmt(r.words_last)} words</span>
+      <span>${fmt(r.inserted)} inserted, ${fmt(r.deleted)} deleted</span><a href="${url}/versions" target="_blank" rel="noopener">version history on the US Code mirror</a></div>
+    ${timeline(r)}
+    <div class="legend"><span><i style="background:var(--del-bg);color:var(--del)">■</i> words deleted</span><span><i style="background:var(--ins-bg);color:var(--ins)">■</i> words inserted</span><span>○ first text held</span></div>
+    <div class="tabs" role="group" aria-label="Choose a change">${tabs}</div>
+    <p class="change-head">${head}</p>
+    <div class="text">${redlineHTML(body)}</div>`;
+  $("#detail").querySelectorAll(".tab").forEach(b => b.addEventListener("click", () => showDetail(r, b.dataset.w === "net" ? "net" : +b.dataset.w)));
+  $("#detail").querySelectorAll(".tl-mark").forEach(g => {
+    const t = ts[+g.dataset.i];
+    g.addEventListener("mousemove", e => showTip(e, `<b>${esc(t.to)}</b> · ${esc(t.date)}<br>${fmt(t.inserted)} inserted, ${fmt(t.deleted)} deleted${t.laws.length ? "<br>Pub. L. " + t.laws.map(l => l.replace("-", "–")).join(", ") : ""}`));
+    g.addEventListener("mouseleave", hideTip);
+    g.addEventListener("click", () => showDetail(r, +g.dataset.i));
+  });
+}
+
+function route() {
+  const h = location.hash.slice(1);
+  const r = TOP.find(x => slug(x) === h) || TOP[0];
+  current = slug(r);
+  if (filter !== "all" && r.title !== filter) { filter = "all"; document.querySelectorAll(".seg button").forEach(x => x.setAttribute("aria-pressed", x.dataset.f === "all")); }
+  renderRows();
+  showDetail(r);
+}
+addEventListener("hashchange", route);
+$("#method-body").innerHTML = DATA.method_html;
+$("#lede").textContent = `The ${TOP.length} sections whose statutory text changed by the most words between release points ${DATA.window.from} (2013) and ${DATA.window.to} (2026) of the US Code, with a word-level redline for every change. ${TOP.length < 50 ? `Only ${TOP.length} sections of the two titles had any substantive text change in that period, so the list stops at ${TOP.length}.` : ""}`;
+route();
+</script>

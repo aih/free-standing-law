@@ -1,0 +1,107 @@
+identifier	from	to	date	inserted	deleted	churn	editorial	words_before	words_after	status_before	status_after	attribution	laws
+/us/usc/t11/s547	113-21	116-56	2019-08-23	27	1	28	False	1375	1401	None	None	classified	116-54
+/us/usc/t11/s547	116-56	116-344not283	2021-01-13	347	2	349	False	1401	1746	None	None	classified	116-260
+/us/usc/t11/s547	116-344not283	117-362not263not328	2023-01-05	2	347	349	False	1746	1401	None	None	none	
+/us/usc/t11/s501	113-21	116-344not283	2021-01-13	292	0	292	False	209	501	None	None	classified	116-260
+/us/usc/t11/s501	116-344not283	117-44	2021-10-02	0	0	0	False	501	501	None	None	none	
+/us/usc/t11/s501	117-44	117-151	2022-06-21	0	292	292	False	501	209	None	None	none	
+/us/usc/t11/s330	113-21	116-344not260not283not315	2021-01-05	254	0	254	False	734	988	None	None	classified	116-325
+/us/usc/t11/s330	116-344not260not283not315	117-44	2021-10-02	1	5	6	False	988	984	None	None	classified	117-43
+/us/usc/t11/s330	117-44	119-83	2026-04-13	1	251	252	False	984	734	None	None	classified	119-75,119-76
+/us/usc/t11/s1329	113-21	116-138not113	2020-04-10	119	0	119	False	413	532	None	None	classified	116-136
+/us/usc/t11/s1329	116-138not113	116-344not283	2021-01-13	119	0	119	False	532	651	None	None	classified	116-260
+/us/usc/t11/s1329	116-344not283	117-17not1not2	2021-06-17	8	2	10	False	651	657	None	None	classified	117-5
+/us/usc/t11/s1329	117-17not1not2	117-151	2022-06-21	0	244	244	False	657	413	None	None	none	
+/us/usc/t24/s418	113-21	115-117	2018-01-12	3	47	50	False	557	513	None	None	classified	115-91
+/us/usc/t24/s418	115-117	116-344	2021-01-13	23	371	394	False	513	165	None	None	classified	116-283
+/us/usc/t11/s101	113-21	116-56	2019-08-23	215	71	286	False	7691	7835	None	None	classified	116-51,116-52,116-53,116-54
+/us/usc/t11/s101	116-56	116-138not113	2020-04-10	47	24	71	False	7835	7858	None	None	classified	116-136
+/us/usc/t11/s101	116-138not113	117-151	2022-06-21	10	51	61	False	7858	7817	None	None	classified	117-151
+/us/usc/t11/s1182	116-56	116-138not113	2020-04-10	196	3	199	False	40	233	None	None	classified	116-136
+/us/usc/t11/s1182	116-138not113	117-151	2022-06-21	8	16	24	False	233	225	None	None	classified	117-151
+/us/usc/t11/s1182	117-151	118-209not159	2024-12-23	3	188	191	False	225	40	None	None	none	
+/us/usc/t24/s412	113-21	113-296not287	2014-12-19	1	7	8	True	371	365	None	None	none	
+/us/usc/t24/s412	113-296not287	114-329	2017-01-06	2	0	2	False	365	367	None	None	classified	114-328
+/us/usc/t24/s412	114-329	115-269not254	2018-10-16	221	69	290	False	367	519	None	None	classified	115-232
+/us/usc/t24/s412	115-269not254	116-344	2021-01-13	60	9	69	False	519	570	None	None	classified	116-283
+/us/usc/t11/s365	113-21	116-344not283	2021-01-13	176	3	179	False	3810	3983	None	None	classified	116-260
+/us/usc/t11/s365	116-344not283	117-362not263not328	2023-01-05	3	176	179	False	3983	3810	None	None	none	
+/us/usc/t11/s1328	113-21	116-344not283	2021-01-13	161	0	161	False	848	1009	None	None	classified	116-260
+/us/usc/t11/s1328	116-344not283	117-44	2021-10-02	0	0	0	False	1009	1009	None	None	none	
+/us/usc/t11/s1328	117-44	117-151	2022-06-21	0	161	161	False	1009	848	None	None	none	
+/us/usc/t11/s366	113-21	116-344not283	2021-01-13	108	0	108	False	444	552	None	None	classified	116-260
+/us/usc/t11/s366	116-344not283	117-151	2022-06-21	0	108	108	False	552	444	None	None	none	
+/us/usc/t11/s541	113-21	113-296not287not291	2014-12-19	160	2	162	False	1933	2091	None	None	classified	113-295
+/us/usc/t11/s541	113-296not287not291	114-244u1	2016-10-14	0	0	0	False	2091	2091	None	None	none	
+/us/usc/t11/s541	114-244u1	116-56	2019-08-23	0	0	0	False	2091	2091	None	None	none	
+/us/usc/t11/s541	116-56	116-344not283	2021-01-13	16	2	18	False	2091	2105	None	None	classified	116-260
+/us/usc/t11/s541	116-344not283	117-151	2022-06-21	2	16	18	False	2105	2091	None	None	none	
+/us/usc/t24/s414	113-21	113-296not287	2014-12-19	1	7	8	True	261	255	None	None	none	
+/us/usc/t24/s414	113-296not287	116-344	2021-01-13	124	0	124	False	255	379	None	None	classified	116-283
+/us/usc/t11/s502	113-21	116-344not283	2021-01-13	57	9	66	False	1608	1656	None	None	classified	116-260
+/us/usc/t11/s502	116-344not283	117-151	2022-06-21	2	53	55	False	1656	1605	None	None	none	
+/us/usc/t24/s413	113-21	113-296not287	2014-12-19	3	12	15	True	446	437	None	None	none	
+/us/usc/t24/s413	113-296not287	119-1	2025-01-29	33	78	111	False	437	392	None	None	classified	118-159
+/us/usc/t24/s413a	113-21	113-296not287	2014-12-19	13	15	28	False	400	398	None	None	classified	113-291
+/us/usc/t24/s413a	113-296not287	115-117	2018-01-12	1	15	16	False	398	384	None	None	classified	115-91
+/us/usc/t24/s413a	115-117	115-269not254	2018-10-16	18	29	47	False	384	373	None	None	classified	115-232
+/us/usc/t24/s413a	115-269not254	116-344	2021-01-13	1	16	17	False	373	358	None	None	classified	116-283
+/us/usc/t11/s1222	113-21	115-73	2017-10-26	26	76	102	False	747	697	None	None	classified	115-72
+/us/usc/t11/s362	113-21	116-193	2020-10-30	75	2	77	False	6559	6632	None	None	classified	116-189
+/us/usc/t11/s523	113-21	116-56	2019-08-23	1	0	1	False	2042	2043	None	None	classified	116-54
+/us/usc/t11/s523	116-56	117-362not263not328	2023-01-05	65	2	67	False	2043	2106	None	None	classified	117-347
+/us/usc/t11/s525	113-21	116-344not283	2021-01-13	34	0	34	False	517	551	None	None	classified	116-260
+/us/usc/t11/s525	116-344not283	117-151	2022-06-21	0	34	34	False	551	517	None	None	none	
+/us/usc/t11/s1325	113-21	116-56	2019-08-23	0	0	0	False	1190	1190	None	None	none	
+/us/usc/t11/s1325	116-56	116-138not113	2020-04-10	32	0	32	False	1190	1222	None	None	classified	116-136
+/us/usc/t11/s1325	116-138not113	117-151	2022-06-21	0	32	32	False	1222	1190	None	None	none	
+/us/usc/t24/s411	113-21	115-117	2018-01-12	32	32	64	False	1364	1364	None	None	classified	115-91
+/us/usc/t11/s109	113-21	116-56	2019-08-23	0	0	0	False	1273	1273	None	None	none	
+/us/usc/t11/s109	116-56	117-151	2022-06-21	4	24	28	False	1273	1253	None	None	classified	117-151
+/us/usc/t11/s109	117-151	118-209not159	2024-12-23	24	4	28	False	1253	1273	None	None	none	
+/us/usc/t11/s707	113-21	113-296not287not291	2014-12-19	55	0	55	False	2741	2796	None	None	classified	113-295
+/us/usc/t11/s707	113-296not287not291	116-56	2019-08-23	0	0	0	False	2796	2796	None	None	none	116-53
+/us/usc/t24/s416	113-21	115-117	2018-01-12	2	20	22	False	833	815	None	None	classified	115-91
+/us/usc/t24/s416	115-117	116-344	2021-01-13	2	24	26	False	815	793	None	None	classified	116-283
+/us/usc/t11/s1102	113-21	116-56	2019-08-23	21	26	47	False	455	450	None	None	classified	116-54
+/us/usc/t11/s103	113-21	116-56	2019-08-23	34	2	36	False	326	358	None	None	classified	116-54
+/us/usc/t11/s103	116-56	116-138not113	2020-04-10	5	2	7	False	358	361	None	None	classified	116-136
+/us/usc/t24/s415	113-21	115-269not254	2018-10-16	31	7	38	False	570	594	None	None	classified	115-232
+/us/usc/t11/s507	113-21	116-56	2019-08-23	0	0	0	False	1661	1661	None	None	none	
+/us/usc/t11/s507	116-56	116-344not283	2021-01-13	13	2	15	False	1661	1672	None	None	classified	116-260
+/us/usc/t11/s507	116-344not283	117-151	2022-06-21	2	13	15	False	1672	1661	None	None	none	
+/us/usc/t11/s507	117-151	118-209not159	2024-12-23	4	1	5	False	1661	1664	None	None	none	
+/us/usc/t24/s417	113-21	115-117	2018-01-12	13	8	21	False	440	445	None	None	classified	115-91
+/us/usc/t24/s417	115-117	116-344	2021-01-13	0	8	8	False	445	437	None	None	classified	116-283
+/us/usc/t11/s1229	113-21	115-73	2017-10-26	25	2	27	False	324	347	None	None	classified	115-72
+/us/usc/t24/s401	113-21	119-1	2025-01-29	25	2	27	False	222	245	None	None	classified	118-159
+/us/usc/t11/s1228	113-21	115-73	2017-10-26	17	5	22	False	553	565	None	None	classified	115-72
+/us/usc/t11/s521	113-21	113-296not287not291	2014-12-19	19	1	20	False	2297	2315	None	None	classified	113-295
+/us/usc/t11/s326	113-21	116-56	2019-08-23	16	0	16	False	310	326	None	None	classified	116-54
+/us/usc/t11/s1183	116-56	117-151	2022-06-21	9	4	13	False	411	416	None	None	classified	117-151
+/us/usc/t24/s423	113-21	113-296not287	2014-12-19	3	9	12	False	250	244	None	None	none	
+/us/usc/t24/s225b	113-21	117-327not263	2022-12-27	5	5	10	False	1419	1419	None	None	classified	117-286
+/us/usc/t11/s347	113-21	116-56	2019-08-23	7	0	7	False	161	168	None	None	classified	116-54
+/us/usc/t11/s347	116-56	116-138not113	2020-04-10	1	1	2	False	168	168	None	None	classified	116-136
+/us/usc/t11/s1191	116-56	117-151	2022-06-21	3	3	6	False	493	493	None	None	classified	117-151
+/us/usc/t11/s524	113-21	116-56	2019-08-23	4	0	4	False	6002	6006	None	None	classified	116-54
+/us/usc/t24/s420	113-21	113-296not287	2014-12-19	1	16	17	True	1035	1020	None	None	none	
+/us/usc/t24/s420	113-296not287	115-269not254	2018-10-16	1	1	2	False	1020	1020	None	None	classified	115-232
+/us/usc/t11/s104	113-21	117-151	2022-06-21	2	0	2	False	213	215	None	None	classified	117-151
+/us/usc/t11/s1146	113-21	116-56	2019-08-23	2	0	2	False	148	150	None	None	classified	116-54
+/us/usc/t11/s363	113-21	116-56	2019-08-23	2	0	2	False	1850	1852	None	None	classified	116-54
+/us/usc/t11/s364	113-21	116-56	2019-08-23	2	0	2	False	476	478	None	None	classified	116-54
+/us/usc/t11/s322	113-21	116-56	2019-08-23	1	0	1	False	177	178	None	None	classified	116-54
+/us/usc/t11/s557	113-21	116-56	2019-08-23	1	0	1	False	1039	1040	None	None	classified	116-54
+/us/usc/t24/s422	113-21	113-296not287	2014-12-19	4	31	35	True	478	451	None	None	none	
+/us/usc/t24/s225d	113-21	113-296not287	2014-12-19	1	13	14	True	687	675	None	None	none	
+/us/usc/t24/s421	113-21	113-296not287	2014-12-19	1	7	8	True	172	166	None	None	none	
+/us/usc/t24/s225g	113-21	113-296not287	2014-12-19	1	4	5	True	717	714	None	None	none	
+/us/usc/t24/s225h	113-21	113-296not287	2014-12-19	1	4	5	True	497	494	None	None	none	
+/us/usc/t24/s419	113-21	113-296not287	2014-12-19	1	4	5	True	240	237	None	None	none	
+/us/usc/t24/s322	113-21	113-296not287	2014-12-19	0	3	3	True	230	227	None	None	none	
+/us/usc/t11/s1322	113-21	116-56	2019-08-23	0	0	0	False	1048	1048	None	None	none	
+/us/usc/t11/s1326	113-21	116-56	2019-08-23	0	0	0	False	644	644	None	None	none	
+/us/usc/t11/s303	113-21	116-56	2019-08-23	0	0	0	False	1101	1101	None	None	none	
+/us/usc/t11/s522	113-21	116-56	2019-08-23	0	0	0	False	3908	3908	None	None	none	
+/us/usc/t11/s550	113-21	113-296not287not291	2014-12-19	0	0	0	False	404	404	None	None	none	

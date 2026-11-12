@@ -1,0 +1,49 @@
+rank	title	identifier	num	heading	status_now	first_release	text_versions	text_changes	substantive_changes	editorial_changes	substantive_churn	churn	inserted	deleted	net_churn	words_first	words_last	relative_churn	repeal_in_window
+1	11	/us/usc/t11/s547	§ 547.	Preferences	None	113-21	4	3	3	0	726	726	376	350	28	1375	1401	0.5182	False
+2	11	/us/usc/t11/s501	§ 501.	Filing of proofs of claims or interests	None	113-21	4	3	2	0	584	584	292	292	0	209	209	2.7943	False
+3	11	/us/usc/t11/s330	§ 330.	Compensation of officers	None	113-21	4	3	3	0	512	512	256	256	2	734	734	0.6975	False
+4	11	/us/usc/t11/s1329	§ 1329.	Modification of plan after confirmation	None	113-21	5	4	4	0	492	492	246	246	0	413	413	1.1913	False
+5	24	/us/usc/t24/s418	§ 418.	Periodic inspection of retirement home facilities	None	113-21	3	2	2	0	444	444	26	418	444	557	165	0.7971	False
+6	11	/us/usc/t11/s101	§ 101.	Definitions	None	113-21	4	3	3	0	418	418	272	146	268	7691	7817	0.0535	False
+7	11	/us/usc/t11/s1182	§ 1182.	Definitions	None	116-56	4	3	3	0	414	414	207	207	0	40	40	10.35	False
+8	24	/us/usc/t24/s412	§ 412.	Residents of Retirement Home	None	113-21	5	4	3	1	361	369	284	85	367	371	570	0.6474	False
+9	11	/us/usc/t11/s365	§ 365.	Executory contracts and unexpired leases	None	113-21	3	2	2	0	358	358	179	179	0	3810	3810	0.094	False
+10	11	/us/usc/t11/s1328	§ 1328.	Discharge	None	113-21	4	3	2	0	322	322	161	161	0	848	848	0.3797	False
+11	11	/us/usc/t11/s366	§ 366.	Utility service	None	113-21	3	2	2	0	216	216	108	108	0	444	444	0.4865	False
+12	11	/us/usc/t11/s541	§ 541.	Property of the estate	None	113-21	6	5	3	0	198	198	178	20	162	1933	2091	0.0947	False
+13	24	/us/usc/t24/s414	§ 414.	Fees paid by residents	None	113-21	3	2	1	1	124	132	125	7	132	261	379	0.3483	False
+14	11	/us/usc/t11/s502	§ 502.	Allowance of claims or interests	None	113-21	3	2	2	0	121	121	59	62	11	1608	1605	0.0752	False
+15	24	/us/usc/t24/s413	§ 413.	Services provided to residents	None	113-21	3	2	1	1	111	126	36	90	126	446	392	0.2825	False
+16	24	/us/usc/t24/s413a	§ 413a.	Oversight of health care provided to residents	None	113-21	5	4	4	0	108	108	33	75	108	400	358	0.27	False
+17	11	/us/usc/t11/s1222	§ 1222.	Contents of plan	None	113-21	2	1	1	0	102	102	26	76	102	747	697	0.1365	False
+18	11	/us/usc/t11/s362	§ 362.	Automatic stay	None	113-21	2	1	1	0	77	77	75	2	77	6559	6632	0.0116	False
+19	11	/us/usc/t11/s523	§ 523.	Exceptions to discharge	None	113-21	3	2	2	0	68	68	66	2	68	2042	2106	0.0323	False
+20	11	/us/usc/t11/s525	§ 525.	Protection against discriminatory treatment	None	113-21	3	2	2	0	68	68	34	34	0	517	517	0.1315	False
+21	11	/us/usc/t11/s1325	§ 1325.	Confirmation of plan	None	113-21	4	3	2	0	64	64	32	32	0	1190	1190	0.0538	False
+22	24	/us/usc/t24/s411	§ 411.	Establishment of the Armed Forces Retirement Home	None	113-21	2	1	1	0	64	64	32	32	64	1364	1364	0.0469	False
+23	11	/us/usc/t11/s109	§ 109.	Who may be a debtor	None	113-21	4	3	2	0	56	56	28	28	0	1273	1273	0.044	False
+24	11	/us/usc/t11/s707	§ 707.	Dismissal of a case or conversion to a case under chapter 11 or 13	None	113-21	3	2	1	0	55	55	55	0	55	2741	2796	0.0197	False
+25	24	/us/usc/t24/s416	§ 416.	Advisory Council	None	113-21	3	2	2	0	48	48	4	44	48	833	793	0.0576	False
+26	11	/us/usc/t11/s1102	§ 1102.	Creditors’ and equity security holders’ committees	None	113-21	2	1	1	0	47	47	21	26	47	455	450	0.1033	False
+27	11	/us/usc/t11/s103	§ 103.	Applicability of chapters	None	113-21	3	2	2	0	43	43	39	4	39	326	361	0.1191	False
+28	24	/us/usc/t24/s415	§ 415.	Chief Operating Officer	None	113-21	2	1	1	0	38	38	31	7	38	570	594	0.064	False
+29	11	/us/usc/t11/s507	§ 507.	Priorities	None	113-21	5	4	3	0	35	35	19	16	5	1661	1664	0.021	False
+30	24	/us/usc/t24/s417	§ 417.	Administrators, Ombudsmen, and staff of facilities	None	113-21	3	2	2	0	29	29	13	16	29	440	437	0.0659	False
+31	11	/us/usc/t11/s1229	§ 1229.	Modification of plan after confirmation	None	113-21	2	1	1	0	27	27	25	2	27	324	347	0.0778	False
+32	24	/us/usc/t24/s401	§ 401.	Definitions	None	113-21	2	1	1	0	27	27	25	2	27	222	245	0.1102	False
+33	11	/us/usc/t11/s1228	§ 1228.	Discharge	None	113-21	2	1	1	0	22	22	17	5	22	553	565	0.0389	False
+34	11	/us/usc/t11/s521	§ 521.	Debtor’s duties	None	113-21	2	1	1	0	20	20	19	1	20	2297	2315	0.0086	False
+35	11	/us/usc/t11/s326	§ 326.	Limitation on compensation of trustee	None	113-21	2	1	1	0	16	16	16	0	16	310	326	0.0491	False
+36	11	/us/usc/t11/s1183	§ 1183.	Trustee	None	116-56	2	1	1	0	13	13	9	4	13	411	416	0.0312	False
+37	24	/us/usc/t24/s423	§ 423.	Preservation of historic buildings and grounds at the Armed Forces Retirement Home—Washington	None	113-21	2	1	1	0	12	12	3	9	12	250	244	0.048	False
+38	24	/us/usc/t24/s225b	§ 225b.	Development of plan for mental health system for the District	None	113-21	2	1	1	0	10	10	5	5	10	1419	1419	0.007	False
+39	11	/us/usc/t11/s347	§ 347.	Unclaimed property	None	113-21	3	2	2	0	9	9	8	1	7	161	168	0.0536	False
+40	11	/us/usc/t11/s1191	§ 1191.	Confirmation of plan	None	116-56	2	1	1	0	6	6	3	3	6	493	493	0.0122	False
+41	11	/us/usc/t11/s524	§ 524.	Effect of discharge	None	113-21	2	1	1	0	4	4	4	0	4	6002	6006	0.0007	False
+42	24	/us/usc/t24/s420	§ 420.	Disposition of effects of deceased persons; unclaimed property	None	113-21	3	2	1	1	2	19	2	17	19	1035	1020	0.0184	False
+43	11	/us/usc/t11/s104	§ 104.	Adjustment of dollar amounts	None	113-21	2	1	1	0	2	2	2	0	2	213	215	0.0093	False
+44	11	/us/usc/t11/s1146	§ 1146.	Special tax provisions	None	113-21	2	1	1	0	2	2	2	0	2	148	150	0.0133	False
+45	11	/us/usc/t11/s363	§ 363.	Use, sale, or lease of property	None	113-21	2	1	1	0	2	2	2	0	2	1850	1852	0.0011	False
+46	11	/us/usc/t11/s364	§ 364.	Obtaining credit	None	113-21	2	1	1	0	2	2	2	0	2	476	478	0.0042	False
+47	11	/us/usc/t11/s322	§ 322.	Qualification of trustee	None	113-21	2	1	1	0	1	1	1	0	1	177	178	0.0056	False
+48	11	/us/usc/t11/s557	§ 557.	Expedited determination of interests in, and abandonment or other disposition of grain assets	None	113-21	2	1	1	0	1	1	1	0	1	1039	1040	0.001	False

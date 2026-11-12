@@ -1,0 +1,403 @@
+title	identifier	num	heading	status_now	first_release	text_versions	text_changes	substantive_changes	editorial_changes	substantive_churn	churn	inserted	deleted	net_churn	words_first	words_last	relative_churn	repeal_in_window
+11	/us/usc/t11/s547	§ 547.	Preferences	None	113-21	4	3	3	0	726	726	376	350	28	1375	1401	0.5182	False
+11	/us/usc/t11/s501	§ 501.	Filing of proofs of claims or interests	None	113-21	4	3	2	0	584	584	292	292	0	209	209	2.7943	False
+11	/us/usc/t11/s330	§ 330.	Compensation of officers	None	113-21	4	3	3	0	512	512	256	256	2	734	734	0.6975	False
+11	/us/usc/t11/s1329	§ 1329.	Modification of plan after confirmation	None	113-21	5	4	4	0	492	492	246	246	0	413	413	1.1913	False
+24	/us/usc/t24/s418	§ 418.	Periodic inspection of retirement home facilities	None	113-21	3	2	2	0	444	444	26	418	444	557	165	0.7971	False
+11	/us/usc/t11/s101	§ 101.	Definitions	None	113-21	4	3	3	0	418	418	272	146	268	7691	7817	0.0535	False
+11	/us/usc/t11/s1182	§ 1182.	Definitions	None	116-56	4	3	3	0	414	414	207	207	0	40	40	10.35	False
+24	/us/usc/t24/s412	§ 412.	Residents of Retirement Home	None	113-21	5	4	3	1	361	369	284	85	367	371	570	0.6474	False
+11	/us/usc/t11/s365	§ 365.	Executory contracts and unexpired leases	None	113-21	3	2	2	0	358	358	179	179	0	3810	3810	0.094	False
+11	/us/usc/t11/s1328	§ 1328.	Discharge	None	113-21	4	3	2	0	322	322	161	161	0	848	848	0.3797	False
+11	/us/usc/t11/s366	§ 366.	Utility service	None	113-21	3	2	2	0	216	216	108	108	0	444	444	0.4865	False
+11	/us/usc/t11/s541	§ 541.	Property of the estate	None	113-21	6	5	3	0	198	198	178	20	162	1933	2091	0.0947	False
+24	/us/usc/t24/s414	§ 414.	Fees paid by residents	None	113-21	3	2	1	1	124	132	125	7	132	261	379	0.3483	False
+11	/us/usc/t11/s502	§ 502.	Allowance of claims or interests	None	113-21	3	2	2	0	121	121	59	62	11	1608	1605	0.0752	False
+24	/us/usc/t24/s413	§ 413.	Services provided to residents	None	113-21	3	2	1	1	111	126	36	90	126	446	392	0.2825	False
+24	/us/usc/t24/s413a	§ 413a.	Oversight of health care provided to residents	None	113-21	5	4	4	0	108	108	33	75	108	400	358	0.27	False
+11	/us/usc/t11/s1222	§ 1222.	Contents of plan	None	113-21	2	1	1	0	102	102	26	76	102	747	697	0.1365	False
+11	/us/usc/t11/s362	§ 362.	Automatic stay	None	113-21	2	1	1	0	77	77	75	2	77	6559	6632	0.0116	False
+11	/us/usc/t11/s523	§ 523.	Exceptions to discharge	None	113-21	3	2	2	0	68	68	66	2	68	2042	2106	0.0323	False
+11	/us/usc/t11/s525	§ 525.	Protection against discriminatory treatment	None	113-21	3	2	2	0	68	68	34	34	0	517	517	0.1315	False
+11	/us/usc/t11/s1325	§ 1325.	Confirmation of plan	None	113-21	4	3	2	0	64	64	32	32	0	1190	1190	0.0538	False
+24	/us/usc/t24/s411	§ 411.	Establishment of the Armed Forces Retirement Home	None	113-21	2	1	1	0	64	64	32	32	64	1364	1364	0.0469	False
+11	/us/usc/t11/s109	§ 109.	Who may be a debtor	None	113-21	4	3	2	0	56	56	28	28	0	1273	1273	0.044	False
+11	/us/usc/t11/s707	§ 707.	Dismissal of a case or conversion to a case under chapter 11 or 13	None	113-21	3	2	1	0	55	55	55	0	55	2741	2796	0.0197	False
+24	/us/usc/t24/s416	§ 416.	Advisory Council	None	113-21	3	2	2	0	48	48	4	44	48	833	793	0.0576	False
+11	/us/usc/t11/s1102	§ 1102.	Creditors’ and equity security holders’ committees	None	113-21	2	1	1	0	47	47	21	26	47	455	450	0.1033	False
+11	/us/usc/t11/s103	§ 103.	Applicability of chapters	None	113-21	3	2	2	0	43	43	39	4	39	326	361	0.1191	False
+24	/us/usc/t24/s415	§ 415.	Chief Operating Officer	None	113-21	2	1	1	0	38	38	31	7	38	570	594	0.064	False
+11	/us/usc/t11/s507	§ 507.	Priorities	None	113-21	5	4	3	0	35	35	19	16	5	1661	1664	0.021	False
+24	/us/usc/t24/s417	§ 417.	Administrators, Ombudsmen, and staff of facilities	None	113-21	3	2	2	0	29	29	13	16	29	440	437	0.0659	False
+11	/us/usc/t11/s1229	§ 1229.	Modification of plan after confirmation	None	113-21	2	1	1	0	27	27	25	2	27	324	347	0.0778	False
+24	/us/usc/t24/s401	§ 401.	Definitions	None	113-21	2	1	1	0	27	27	25	2	27	222	245	0.1102	False
+11	/us/usc/t11/s1228	§ 1228.	Discharge	None	113-21	2	1	1	0	22	22	17	5	22	553	565	0.0389	False
+11	/us/usc/t11/s521	§ 521.	Debtor’s duties	None	113-21	2	1	1	0	20	20	19	1	20	2297	2315	0.0086	False
+11	/us/usc/t11/s326	§ 326.	Limitation on compensation of trustee	None	113-21	2	1	1	0	16	16	16	0	16	310	326	0.0491	False
+11	/us/usc/t11/s1183	§ 1183.	Trustee	None	116-56	2	1	1	0	13	13	9	4	13	411	416	0.0312	False
+24	/us/usc/t24/s423	§ 423.	Preservation of historic buildings and grounds at the Armed Forces Retirement Home—Washington	None	113-21	2	1	1	0	12	12	3	9	12	250	244	0.048	False
+24	/us/usc/t24/s225b	§ 225b.	Development of plan for mental health system for the District	None	113-21	2	1	1	0	10	10	5	5	10	1419	1419	0.007	False
+11	/us/usc/t11/s347	§ 347.	Unclaimed property	None	113-21	3	2	2	0	9	9	8	1	7	161	168	0.0536	False
+11	/us/usc/t11/s1191	§ 1191.	Confirmation of plan	None	116-56	2	1	1	0	6	6	3	3	6	493	493	0.0122	False
+11	/us/usc/t11/s524	§ 524.	Effect of discharge	None	113-21	2	1	1	0	4	4	4	0	4	6002	6006	0.0007	False
+24	/us/usc/t24/s420	§ 420.	Disposition of effects of deceased persons; unclaimed property	None	113-21	3	2	1	1	2	19	2	17	19	1035	1020	0.0184	False
+11	/us/usc/t11/s104	§ 104.	Adjustment of dollar amounts	None	113-21	2	1	1	0	2	2	2	0	2	213	215	0.0093	False
+11	/us/usc/t11/s1146	§ 1146.	Special tax provisions	None	113-21	2	1	1	0	2	2	2	0	2	148	150	0.0133	False
+11	/us/usc/t11/s363	§ 363.	Use, sale, or lease of property	None	113-21	2	1	1	0	2	2	2	0	2	1850	1852	0.0011	False
+11	/us/usc/t11/s364	§ 364.	Obtaining credit	None	113-21	2	1	1	0	2	2	2	0	2	476	478	0.0042	False
+11	/us/usc/t11/s322	§ 322.	Qualification of trustee	None	113-21	2	1	1	0	1	1	1	0	1	177	178	0.0056	False
+11	/us/usc/t11/s557	§ 557.	Expedited determination of interests in, and abandonment or other disposition of grain assets	None	113-21	2	1	1	0	1	1	1	0	1	1039	1040	0.001	False
+24	/us/usc/t24/s422	§ 422.	Authority to accept certain uncompensated services	None	113-21	2	1	0	1	0	35	4	31	35	478	451	0.0732	False
+24	/us/usc/t24/s225d	§ 225d.	Transition provisions for employees of Hospital	None	113-21	2	1	0	1	0	14	1	13	14	687	675	0.0204	False
+24	/us/usc/t24/s421	§ 421.	Payment of residents for services	None	113-21	2	1	0	1	0	8	1	7	8	172	166	0.0465	False
+24	/us/usc/t24/s225g	§ 225g.	Financing provisions	None	113-21	2	1	0	1	0	5	1	4	5	717	714	0.007	False
+24	/us/usc/t24/s225h	§ 225h.	Buy American provisions	None	113-21	2	1	0	1	0	5	1	4	5	497	494	0.0101	False
+24	/us/usc/t24/s419	§ 419.	Armed Forces Retirement Home Trust Fund	None	113-21	2	1	0	1	0	5	1	4	5	240	237	0.0208	False
+24	/us/usc/t24/s322	§ 322.	Reception of eligible persons at ports of entry or debarkation	None	113-21	2	1	0	1	0	3	0	3	3	230	227	0.013	False
+11	/us/usc/t11/s1322	§ 1322.	Contents of plan	None	113-21	2	1	0	0	0	0	0	0	0	1048	1048	0.0	False
+11	/us/usc/t11/s1326	§ 1326.	Payments	None	113-21	2	1	0	0	0	0	0	0	0	644	644	0.0	False
+11	/us/usc/t11/s303	§ 303.	Involuntary cases	None	113-21	2	1	0	0	0	0	0	0	0	1101	1101	0.0	False
+11	/us/usc/t11/s522	§ 522.	Exemptions	None	113-21	2	1	0	0	0	0	0	0	0	3908	3908	0.0	False
+11	/us/usc/t11/s550	§ 550.	Liability of transferee of avoided transfer	None	113-21	2	1	0	0	0	0	0	0	0	404	404	0.0	False
+11	/us/usc/t11/s102	§ 102.	Rules of construction	None	113-21	1	0	0	0	0	0	0	0	0	196	196	0.0	False
+11	/us/usc/t11/s105	§ 105.	Power of court	None	113-21	1	0	0	0	0	0	0	0	0	417	417	0.0	False
+11	/us/usc/t11/s106	§ 106.	Waiver of sovereign immunity	None	113-21	1	0	0	0	0	0	0	0	0	377	377	0.0	False
+11	/us/usc/t11/s107	§ 107.	Public access to papers	None	113-21	1	0	0	0	0	0	0	0	0	289	289	0.0	False
+11	/us/usc/t11/s108	§ 108.	Extension of time	None	113-21	1	0	0	0	0	0	0	0	0	361	361	0.0	False
+11	/us/usc/t11/s110	§ 110.	Penalty for persons who negligently or fraudulently prepare bankruptcy petitions	None	113-21	1	0	0	0	0	0	0	0	0	1825	1825	0.0	False
+11	/us/usc/t11/s1101	§ 1101.	Definitions for this chapter	None	113-21	1	0	0	0	0	0	0	0	0	99	99	0.0	False
+11	/us/usc/t11/s1103	§ 1103.	Powers and duties of committees	None	113-21	1	0	0	0	0	0	0	0	0	298	298	0.0	False
+11	/us/usc/t11/s1104	§ 1104.	Appointment of trustee or examiner	None	113-21	1	0	0	0	0	0	0	0	0	624	624	0.0	False
+11	/us/usc/t11/s1105	§ 1105.	Termination of trustee’s appointment	None	113-21	1	0	0	0	0	0	0	0	0	61	61	0.0	False
+11	/us/usc/t11/s1106	§ 1106.	Duties of trustee and examiner	None	113-21	1	0	0	0	0	0	0	0	0	709	709	0.0	False
+11	/us/usc/t11/s1107	§ 1107.	Rights, powers, and duties of debtor in possession	None	113-21	1	0	0	0	0	0	0	0	0	132	132	0.0	False
+11	/us/usc/t11/s1108	§ 1108.	Authorization to operate business	None	113-21	1	0	0	0	0	0	0	0	0	31	31	0.0	False
+11	/us/usc/t11/s1109	§ 1109.	Right to be heard	None	113-21	1	0	0	0	0	0	0	0	0	93	93	0.0	False
+11	/us/usc/t11/s111	§ 111.	Nonprofit budget and credit counseling agencies; financial management instructional courses	None	113-21	1	0	0	0	0	0	0	0	0	1228	1228	0.0	False
+11	/us/usc/t11/s1110	§ 1110.	Aircraft equipment and vessels	None	113-21	1	0	0	0	0	0	0	0	0	768	768	0.0	False
+11	/us/usc/t11/s1111	§ 1111.	Claims and interests	None	113-21	1	0	0	0	0	0	0	0	0	274	274	0.0	False
+11	/us/usc/t11/s1112	§ 1112.	Conversion or dismissal	None	113-21	1	0	0	0	0	0	0	0	0	940	940	0.0	False
+11	/us/usc/t11/s1113	§ 1113.	Rejection of collective bargaining agreements	None	113-21	1	0	0	0	0	0	0	0	0	729	729	0.0	False
+11	/us/usc/t11/s1114	§ 1114.	Payment of insurance benefits to retired employees	None	113-21	1	0	0	0	0	0	0	0	0	1720	1720	0.0	False
+11	/us/usc/t11/s1115	§ 1115.	Property of the estate	None	113-21	1	0	0	0	0	0	0	0	0	136	136	0.0	False
+11	/us/usc/t11/s1116	§ 1116.	Duties of trustee or debtor in possession in small business cases	None	113-21	1	0	0	0	0	0	0	0	0	325	325	0.0	False
+11	/us/usc/t11/s112	§ 112.	Prohibition on disclosure of name of minor children	None	113-21	1	0	0	0	0	0	0	0	0	126	126	0.0	False
+11	/us/usc/t11/s1121	§ 1121.	Who may file a plan	None	113-21	1	0	0	0	0	0	0	0	0	458	458	0.0	False
+11	/us/usc/t11/s1122	§ 1122.	Classification of claims or interests	None	113-21	1	0	0	0	0	0	0	0	0	84	84	0.0	False
+11	/us/usc/t11/s1123	§ 1123.	Contents of plan	None	113-21	1	0	0	0	0	0	0	0	0	818	818	0.0	False
+11	/us/usc/t11/s1124	§ 1124.	Impairment of claims or interests	None	113-21	1	0	0	0	0	0	0	0	0	282	282	0.0	False
+11	/us/usc/t11/s1125	§ 1125.	Postpetition disclosure and solicitation	None	113-21	1	0	0	0	0	0	0	0	0	766	766	0.0	False
+11	/us/usc/t11/s1126	§ 1126.	Acceptance of plan	None	113-21	1	0	0	0	0	0	0	0	0	469	469	0.0	False
+11	/us/usc/t11/s1127	§ 1127.	Modification of plan	None	113-21	1	0	0	0	0	0	0	0	0	401	401	0.0	False
+11	/us/usc/t11/s1128	§ 1128.	Confirmation hearing	None	113-21	1	0	0	0	0	0	0	0	0	30	30	0.0	False
+11	/us/usc/t11/s1129	§ 1129.	Confirmation of plan	None	113-21	1	0	0	0	0	0	0	0	0	1927	1927	0.0	False
+11	/us/usc/t11/s1141	§ 1141.	Effect of confirmation	None	113-21	1	0	0	0	0	0	0	0	0	786	786	0.0	False
+11	/us/usc/t11/s1142	§ 1142.	Implementation of plan	None	113-21	1	0	0	0	0	0	0	0	0	112	112	0.0	False
+11	/us/usc/t11/s1143	§ 1143.	Distribution	None	113-21	1	0	0	0	0	0	0	0	0	83	83	0.0	False
+11	/us/usc/t11/s1144	§ 1144.	Revocation of an order of confirmation	None	113-21	1	0	0	0	0	0	0	0	0	95	95	0.0	False
+11	/us/usc/t11/s1145	§ 1145.	Exemption from securities laws	None	113-21	1	0	0	0	0	0	0	0	0	819	819	0.0	False
+11	/us/usc/t11/s1161	§ 1161.	Inapplicability of other sections	None	113-21	1	0	0	0	0	0	0	0	0	28	28	0.0	False
+11	/us/usc/t11/s1162	§ 1162.	Definition	None	113-21	1	0	0	0	0	0	0	0	0	12	12	0.0	False
+11	/us/usc/t11/s1163	§ 1163.	Appointment of trustee	None	113-21	1	0	0	0	0	0	0	0	0	55	55	0.0	False
+11	/us/usc/t11/s1164	§ 1164.	Right to be heard	None	113-21	1	0	0	0	0	0	0	0	0	55	55	0.0	False
+11	/us/usc/t11/s1165	§ 1165.	Protection of the public interest	None	113-21	1	0	0	0	0	0	0	0	0	45	45	0.0	False
+11	/us/usc/t11/s1166	§ 1166.	Effect of subtitle IV of title 49 and of Federal, State, or local regulations	None	113-21	1	0	0	0	0	0	0	0	0	156	156	0.0	False
+11	/us/usc/t11/s1167	§ 1167.	Collective bargaining agreements	None	113-21	1	0	0	0	0	0	0	0	0	52	52	0.0	False
+11	/us/usc/t11/s1168	§ 1168.	Rolling stock equipment	None	113-21	1	0	0	0	0	0	0	0	0	708	708	0.0	False
+11	/us/usc/t11/s1169	§ 1169.	Effect of rejection of lease of railroad line	None	113-21	1	0	0	0	0	0	0	0	0	171	171	0.0	False
+11	/us/usc/t11/s1170	§ 1170.	Abandonment of railroad line	None	113-21	1	0	0	0	0	0	0	0	0	391	391	0.0	False
+11	/us/usc/t11/s1171	§ 1171.	Priority claims	None	113-21	1	0	0	0	0	0	0	0	0	121	121	0.0	False
+11	/us/usc/t11/s1172	§ 1172.	Contents of plan	None	113-21	1	0	0	0	0	0	0	0	0	330	330	0.0	False
+11	/us/usc/t11/s1173	§ 1173.	Confirmation of plan	None	113-21	1	0	0	0	0	0	0	0	0	207	207	0.0	False
+11	/us/usc/t11/s1174	§ 1174.	Liquidation	None	113-21	1	0	0	0	0	0	0	0	0	86	86	0.0	False
+11	/us/usc/t11/s1181	§ 1181.	Inapplicability of other sections	None	116-56	1	0	0	0	0	0	0	0	0	110	110	0.0	False
+11	/us/usc/t11/s1184	§ 1184.	Rights and powers of a debtor in possession	None	116-56	1	0	0	0	0	0	0	0	0	84	84	0.0	False
+11	/us/usc/t11/s1185	§ 1185.	Removal of debtor in possession	None	116-56	1	0	0	0	0	0	0	0	0	103	103	0.0	False
+11	/us/usc/t11/s1186	§ 1186.	Property of the estate	None	116-56	1	0	0	0	0	0	0	0	0	164	164	0.0	False
+11	/us/usc/t11/s1187	§ 1187.	Duties and reporting requirements of debtors	None	116-56	1	0	0	0	0	0	0	0	0	111	111	0.0	False
+11	/us/usc/t11/s1188	§ 1188.	Status conference	None	116-56	1	0	0	0	0	0	0	0	0	141	141	0.0	False
+11	/us/usc/t11/s1189	§ 1189.	Filing of the plan	None	116-56	1	0	0	0	0	0	0	0	0	71	71	0.0	False
+11	/us/usc/t11/s1190	§ 1190.	Contents of plan	None	116-56	1	0	0	0	0	0	0	0	0	160	160	0.0	False
+11	/us/usc/t11/s1192	§ 1192.	Discharge	None	116-56	1	0	0	0	0	0	0	0	0	152	152	0.0	False
+11	/us/usc/t11/s1193	§ 1193.	Modification of plan	None	116-56	1	0	0	0	0	0	0	0	0	345	345	0.0	False
+11	/us/usc/t11/s1194	§ 1194.	Payments	None	116-56	1	0	0	0	0	0	0	0	0	191	191	0.0	False
+11	/us/usc/t11/s1195	§ 1195.	Transactions with professionals	None	116-56	1	0	0	0	0	0	0	0	0	46	46	0.0	False
+11	/us/usc/t11/s1201	§ 1201.	Stay of action against codebtor	None	113-21	1	0	0	0	0	0	0	0	0	290	290	0.0	False
+11	/us/usc/t11/s1202	§ 1202.	Trustee	None	113-21	1	0	0	0	0	0	0	0	0	563	563	0.0	False
+11	/us/usc/t11/s1203	§ 1203.	Rights and powers of debtor	None	113-21	1	0	0	0	0	0	0	0	0	75	75	0.0	False
+11	/us/usc/t11/s1204	§ 1204.	Removal of debtor as debtor in possession	None	113-21	1	0	0	0	0	0	0	0	0	83	83	0.0	False
+11	/us/usc/t11/s1205	§ 1205.	Adequate protection	None	113-21	1	0	0	0	0	0	0	0	0	241	241	0.0	False
+11	/us/usc/t11/s1206	§ 1206.	Sales free of interests	None	113-21	1	0	0	0	0	0	0	0	0	87	87	0.0	False
+11	/us/usc/t11/s1207	§ 1207.	Property of the estate	None	113-21	1	0	0	0	0	0	0	0	0	129	129	0.0	False
+11	/us/usc/t11/s1208	§ 1208.	Conversion or dismissal	None	113-21	1	0	0	0	0	0	0	0	0	383	383	0.0	False
+11	/us/usc/t11/s1221	§ 1221.	Filing of plan	None	113-21	1	0	0	0	0	0	0	0	0	52	52	0.0	False
+11	/us/usc/t11/s1223	§ 1223.	Modification of plan before confirmation	None	113-21	1	0	0	0	0	0	0	0	0	122	122	0.0	False
+11	/us/usc/t11/s1224	§ 1224.	Confirmation hearing	None	113-21	1	0	0	0	0	0	0	0	0	56	56	0.0	False
+11	/us/usc/t11/s1225	§ 1225.	Confirmation of plan	None	113-21	1	0	0	0	0	0	0	0	0	579	579	0.0	False
+11	/us/usc/t11/s1226	§ 1226.	Payments	None	113-21	1	0	0	0	0	0	0	0	0	180	180	0.0	False
+11	/us/usc/t11/s1227	§ 1227.	Effect of confirmation	None	113-21	1	0	0	0	0	0	0	0	0	173	173	0.0	False
+11	/us/usc/t11/s1230	§ 1230.	Revocation of an order of confirmation	None	113-21	1	0	0	0	0	0	0	0	0	112	112	0.0	False
+11	/us/usc/t11/s1231	§ 1231.	Special tax provisions	None	113-21	1	0	0	0	0	0	0	0	0	145	145	0.0	False
+11	/us/usc/t11/s1232	§ 1232.	Claim by a governmental unit based on the disposition of property used in a farming operation	None	115-73	1	0	0	0	0	0	0	0	0	556	556	0.0	False
+11	/us/usc/t11/s1301	§ 1301.	Stay of action against codebtor	None	113-21	1	0	0	0	0	0	0	0	0	292	292	0.0	False
+11	/us/usc/t11/s1302	§ 1302.	Trustee	None	113-21	1	0	0	0	0	0	0	0	0	574	574	0.0	False
+11	/us/usc/t11/s1303	§ 1303.	Rights and powers of debtor	None	113-21	1	0	0	0	0	0	0	0	0	43	43	0.0	False
+11	/us/usc/t11/s1304	§ 1304.	Debtor engaged in business	None	113-21	1	0	0	0	0	0	0	0	0	108	108	0.0	False
+11	/us/usc/t11/s1305	§ 1305.	Filing and allowance of postpetition claims	None	113-21	1	0	0	0	0	0	0	0	0	199	199	0.0	False
+11	/us/usc/t11/s1306	§ 1306.	Property of the estate	None	113-21	1	0	0	0	0	0	0	0	0	132	132	0.0	False
+11	/us/usc/t11/s1307	§ 1307.	Conversion or dismissal	None	113-21	1	0	0	0	0	0	0	0	0	594	594	0.0	False
+11	/us/usc/t11/s1308	§ 1308.	Filing of prepetition tax returns	None	113-21	1	0	0	0	0	0	0	0	0	410	410	0.0	False
+11	/us/usc/t11/s1321	§ 1321.	Filing of plan	None	113-21	1	0	0	0	0	0	0	0	0	11	11	0.0	False
+11	/us/usc/t11/s1323	§ 1323.	Modification of plan before confirmation	None	113-21	1	0	0	0	0	0	0	0	0	122	122	0.0	False
+11	/us/usc/t11/s1324	§ 1324.	Confirmation hearing	None	113-21	1	0	0	0	0	0	0	0	0	104	104	0.0	False
+11	/us/usc/t11/s1327	§ 1327.	Effect of confirmation	None	113-21	1	0	0	0	0	0	0	0	0	122	122	0.0	False
+11	/us/usc/t11/s1330	§ 1330.	Revocation of an order of confirmation	None	113-21	1	0	0	0	0	0	0	0	0	112	112	0.0	False
+11	/us/usc/t11/s1501	§ 1501.	Purpose and scope of application	None	113-21	1	0	0	0	0	0	0	0	0	371	371	0.0	False
+11	/us/usc/t11/s1502	§ 1502.	Definitions	None	113-21	1	0	0	0	0	0	0	0	0	225	225	0.0	False
+11	/us/usc/t11/s1503	§ 1503.	International obligations of the United States	None	113-21	1	0	0	0	0	0	0	0	0	52	52	0.0	False
+11	/us/usc/t11/s1504	§ 1504.	Commencement of ancillary case	None	113-21	1	0	0	0	0	0	0	0	0	28	28	0.0	False
+11	/us/usc/t11/s1505	§ 1505.	Authorization to act in a foreign country	None	113-21	1	0	0	0	0	0	0	0	0	57	57	0.0	False
+11	/us/usc/t11/s1506	§ 1506.	Public policy exception	None	113-21	1	0	0	0	0	0	0	0	0	37	37	0.0	False
+11	/us/usc/t11/s1507	§ 1507.	Additional assistance	None	113-21	1	0	0	0	0	0	0	0	0	164	164	0.0	False
+11	/us/usc/t11/s1508	§ 1508.	Interpretation	None	113-21	1	0	0	0	0	0	0	0	0	37	37	0.0	False
+11	/us/usc/t11/s1509	§ 1509.	Right of direct access	None	113-21	1	0	0	0	0	0	0	0	0	270	270	0.0	False
+11	/us/usc/t11/s1510	§ 1510.	Limited jurisdiction	None	113-21	1	0	0	0	0	0	0	0	0	37	37	0.0	False
+11	/us/usc/t11/s1511	§ 1511.	Commencement of case under section 301, 302, or 303	None	113-21	1	0	0	0	0	0	0	0	0	95	95	0.0	False
+11	/us/usc/t11/s1512	§ 1512.	Participation of a foreign representative in a case under this title	None	113-21	1	0	0	0	0	0	0	0	0	44	44	0.0	False
+11	/us/usc/t11/s1513	§ 1513.	Access of foreign creditors to a case under this title	None	113-21	1	0	0	0	0	0	0	0	0	162	162	0.0	False
+11	/us/usc/t11/s1514	§ 1514.	Notification to foreign creditors concerning a case under this title	None	113-21	1	0	0	0	0	0	0	0	0	238	238	0.0	False
+11	/us/usc/t11/s1515	§ 1515.	Application for recognition	None	113-21	1	0	0	0	0	0	0	0	0	173	173	0.0	False
+11	/us/usc/t11/s1516	§ 1516.	Presumptions concerning recognition	None	113-21	1	0	0	0	0	0	0	0	0	101	101	0.0	False
+11	/us/usc/t11/s1517	§ 1517.	Order granting recognition	None	113-21	1	0	0	0	0	0	0	0	0	233	233	0.0	False
+11	/us/usc/t11/s1518	§ 1518.	Subsequent information	None	113-21	1	0	0	0	0	0	0	0	0	68	68	0.0	False
+11	/us/usc/t11/s1519	§ 1519.	Relief that may be granted upon filing petition for recognition	None	113-21	1	0	0	0	0	0	0	0	0	282	282	0.0	False
+11	/us/usc/t11/s1520	§ 1520.	Effects of recognition of a foreign main proceeding	None	113-21	1	0	0	0	0	0	0	0	0	220	220	0.0	False
+11	/us/usc/t11/s1521	§ 1521.	Relief that may be granted upon recognition	None	113-21	1	0	0	0	0	0	0	0	0	445	445	0.0	False
+11	/us/usc/t11/s1522	§ 1522.	Protection of creditors and other interested persons	None	113-21	1	0	0	0	0	0	0	0	0	146	146	0.0	False
+11	/us/usc/t11/s1523	§ 1523.	Actions to avoid acts detrimental to creditors	None	113-21	1	0	0	0	0	0	0	0	0	85	85	0.0	False
+11	/us/usc/t11/s1524	§ 1524.	Intervention by a foreign representative	None	113-21	1	0	0	0	0	0	0	0	0	38	38	0.0	False
+11	/us/usc/t11/s1525	§ 1525.	Cooperation and direct communication between the court and foreign courts or foreign representatives	None	113-21	1	0	0	0	0	0	0	0	0	80	80	0.0	False
+11	/us/usc/t11/s1526	§ 1526.	Cooperation and direct communication between the trustee and foreign courts or foreign representatives	None	113-21	1	0	0	0	0	0	0	0	0	87	87	0.0	False
+11	/us/usc/t11/s1527	§ 1527.	Forms of cooperation	None	113-21	1	0	0	0	0	0	0	0	0	85	85	0.0	False
+11	/us/usc/t11/s1528	§ 1528.	Commencement of a case under this title after recognition of a foreign main proceeding	None	113-21	1	0	0	0	0	0	0	0	0	135	135	0.0	False
+11	/us/usc/t11/s1529	§ 1529.	Coordination of a case under this title and a foreign proceeding	None	113-21	1	0	0	0	0	0	0	0	0	288	288	0.0	False
+11	/us/usc/t11/s1530	§ 1530.	Coordination of more than 1 foreign proceeding	None	113-21	1	0	0	0	0	0	0	0	0	161	161	0.0	False
+11	/us/usc/t11/s1531	§ 1531.	Presumption of insolvency based on recognition of a foreign main proceeding	None	113-21	1	0	0	0	0	0	0	0	0	53	53	0.0	False
+11	/us/usc/t11/s1532	§ 1532.	Rule of payment in concurrent proceedings	None	113-21	1	0	0	0	0	0	0	0	0	84	84	0.0	False
+11	/us/usc/t11/s301	§ 301.	Voluntary cases	None	113-21	1	0	0	0	0	0	0	0	0	61	61	0.0	False
+11	/us/usc/t11/s302	§ 302.	Joint cases	None	113-21	1	0	0	0	0	0	0	0	0	89	89	0.0	False
+11	/us/usc/t11/s304	[§ 304.	Repealed. Pub. L. 109–8, title VIII, § 802(d)(3), Apr. 20, 2005, 119 Stat. 146]	repealed	113-21	1	0	0	0	0	0	0	0	0	16	16	0.0	False
+11	/us/usc/t11/s305	§ 305.	Abstention	None	113-21	1	0	0	0	0	0	0	0	0	165	165	0.0	False
+11	/us/usc/t11/s306	§ 306.	Limited appearance	None	113-21	1	0	0	0	0	0	0	0	0	78	78	0.0	False
+11	/us/usc/t11/s307	§ 307.	United States trustee	None	113-21	1	0	0	0	0	0	0	0	0	41	41	0.0	False
+11	/us/usc/t11/s308	§ 308.	Debtor reporting requirements	None	113-21	1	0	0	0	0	0	0	0	0	218	218	0.0	False
+11	/us/usc/t11/s321	§ 321.	Eligibility to serve as trustee	None	113-21	1	0	0	0	0	0	0	0	0	158	158	0.0	False
+11	/us/usc/t11/s323	§ 323.	Role and capacity of trustee	None	113-21	1	0	0	0	0	0	0	0	0	38	38	0.0	False
+11	/us/usc/t11/s324	§ 324.	Removal of trustee or examiner	None	113-21	1	0	0	0	0	0	0	0	0	77	77	0.0	False
+11	/us/usc/t11/s325	§ 325.	Effect of vacancy	None	113-21	1	0	0	0	0	0	0	0	0	38	38	0.0	False
+11	/us/usc/t11/s327	§ 327.	Employment of professional persons	None	113-21	1	0	0	0	0	0	0	0	0	298	298	0.0	False
+11	/us/usc/t11/s328	§ 328.	Limitation on compensation of professional persons	None	113-21	1	0	0	0	0	0	0	0	0	304	304	0.0	False
+11	/us/usc/t11/s329	§ 329.	Debtor’s transactions with attorneys	None	113-21	1	0	0	0	0	0	0	0	0	176	176	0.0	False
+11	/us/usc/t11/s331	§ 331.	Interim compensation	None	113-21	1	0	0	0	0	0	0	0	0	102	102	0.0	False
+11	/us/usc/t11/s332	§ 332.	Consumer privacy ombudsman	None	113-21	1	0	0	0	0	0	0	0	0	200	200	0.0	False
+11	/us/usc/t11/s333	§ 333.	Appointment of patient care ombudsman	None	113-21	1	0	0	0	0	0	0	0	0	462	462	0.0	False
+11	/us/usc/t11/s341	§ 341.	Meetings of creditors and equity security holders	None	113-21	1	0	0	0	0	0	0	0	0	358	358	0.0	False
+11	/us/usc/t11/s342	§ 342.	Notice	None	113-21	1	0	0	0	0	0	0	0	0	931	931	0.0	False
+11	/us/usc/t11/s343	§ 343.	Examination of the debtor	None	113-21	1	0	0	0	0	0	0	0	0	59	59	0.0	False
+11	/us/usc/t11/s344	§ 344.	Self-incrimination; immunity	None	113-21	1	0	0	0	0	0	0	0	0	33	33	0.0	False
+11	/us/usc/t11/s345	§ 345.	Money of estates	None	113-21	1	0	0	0	0	0	0	0	0	230	230	0.0	False
+11	/us/usc/t11/s346	§ 346.	Special provisions related to the treatment of State and local taxes	None	113-21	1	0	0	0	0	0	0	0	0	1122	1122	0.0	False
+11	/us/usc/t11/s348	§ 348.	Effect of conversion	None	113-21	1	0	0	0	0	0	0	0	0	583	583	0.0	False
+11	/us/usc/t11/s349	§ 349.	Effect of dismissal	None	113-21	1	0	0	0	0	0	0	0	0	195	195	0.0	False
+11	/us/usc/t11/s350	§ 350.	Closing and reopening cases	None	113-21	1	0	0	0	0	0	0	0	0	54	54	0.0	False
+11	/us/usc/t11/s351	§ 351.	Disposal of patient records	None	113-21	1	0	0	0	0	0	0	0	0	348	348	0.0	False
+11	/us/usc/t11/s361	§ 361.	Adequate protection	None	113-21	1	0	0	0	0	0	0	0	0	176	176	0.0	False
+11	/us/usc/t11/s503	§ 503.	Allowance of administrative expenses	None	113-21	1	0	0	0	0	0	0	0	0	1255	1255	0.0	False
+11	/us/usc/t11/s504	§ 504.	Sharing of compensation	None	113-21	1	0	0	0	0	0	0	0	0	216	216	0.0	False
+11	/us/usc/t11/s505	§ 505.	Determination of tax liability	None	113-21	1	0	0	0	0	0	0	0	0	565	565	0.0	False
+11	/us/usc/t11/s506	§ 506.	Determination of secured status	None	113-21	1	0	0	0	0	0	0	0	0	433	433	0.0	False
+11	/us/usc/t11/s508	§ 508.	Effect of distribution other than under this title	None	113-21	1	0	0	0	0	0	0	0	0	127	127	0.0	False
+11	/us/usc/t11/s509	§ 509.	Claims of codebtors	None	113-21	1	0	0	0	0	0	0	0	0	207	207	0.0	False
+11	/us/usc/t11/s510	§ 510.	Subordination	None	113-21	1	0	0	0	0	0	0	0	0	201	201	0.0	False
+11	/us/usc/t11/s511	§ 511.	Rate of interest on tax claims	None	113-21	1	0	0	0	0	0	0	0	0	97	97	0.0	False
+11	/us/usc/t11/s526	§ 526.	Restrictions on debt relief agencies	None	113-21	1	0	0	0	0	0	0	0	0	805	805	0.0	False
+11	/us/usc/t11/s527	§ 527.	Disclosures	None	113-21	1	0	0	0	0	0	0	0	0	944	944	0.0	False
+11	/us/usc/t11/s528	§ 528.	Requirements for debt relief agencies	None	113-21	1	0	0	0	0	0	0	0	0	371	371	0.0	False
+11	/us/usc/t11/s542	§ 542.	Turnover of property to the estate	None	113-21	1	0	0	0	0	0	0	0	0	398	398	0.0	False
+11	/us/usc/t11/s543	§ 543.	Turnover of property by a custodian	None	113-21	1	0	0	0	0	0	0	0	0	410	410	0.0	False
+11	/us/usc/t11/s544	§ 544.	Trustee as lien creditor and as successor to certain creditors and purchasers	None	113-21	1	0	0	0	0	0	0	0	0	357	357	0.0	False
+11	/us/usc/t11/s545	§ 545.	Statutory liens	None	113-21	1	0	0	0	0	0	0	0	0	204	204	0.0	False
+11	/us/usc/t11/s546	§ 546.	Limitations on avoiding powers	None	113-21	1	0	0	0	0	0	0	0	0	1233	1233	0.0	False
+11	/us/usc/t11/s548	§ 548.	Fraudulent transfers and obligations	None	113-21	1	0	0	0	0	0	0	0	0	1200	1200	0.0	False
+11	/us/usc/t11/s549	§ 549.	Postpetition transactions	None	113-21	1	0	0	0	0	0	0	0	0	342	342	0.0	False
+11	/us/usc/t11/s551	§ 551.	Automatic preservation of avoided transfer	None	113-21	1	0	0	0	0	0	0	0	0	50	50	0.0	False
+11	/us/usc/t11/s552	§ 552.	Postpetition effect of security interest	None	113-21	1	0	0	0	0	0	0	0	0	334	334	0.0	False
+11	/us/usc/t11/s553	§ 553.	Setoff	None	113-21	1	0	0	0	0	0	0	0	0	411	411	0.0	False
+11	/us/usc/t11/s554	§ 554.	Abandonment of property of the estate	None	113-21	1	0	0	0	0	0	0	0	0	156	156	0.0	False
+11	/us/usc/t11/s555	§ 555.	Contractual right to liquidate, terminate, or accelerate a securities contract	None	113-21	1	0	0	0	0	0	0	0	0	241	241	0.0	False
+11	/us/usc/t11/s556	§ 556.	Contractual right to liquidate, terminate, or accelerate a commodities contract or forward contract	None	113-21	1	0	0	0	0	0	0	0	0	239	239	0.0	False
+11	/us/usc/t11/s558	§ 558.	Defenses of the estate	None	113-21	1	0	0	0	0	0	0	0	0	59	59	0.0	False
+11	/us/usc/t11/s559	§ 559.	Contractual right to liquidate, terminate, or accelerate a repurchase agreement	None	113-21	1	0	0	0	0	0	0	0	0	374	374	0.0	False
+11	/us/usc/t11/s560	§ 560.	Contractual right to liquidate, terminate, or accelerate a swap agreement	None	113-21	1	0	0	0	0	0	0	0	0	235	235	0.0	False
+11	/us/usc/t11/s561	§ 561.	Contractual right to terminate, liquidate, accelerate, or offset under a master netting agreement and across contracts; proceedings under chapter 15	None	113-21	1	0	0	0	0	0	0	0	0	727	727	0.0	False
+11	/us/usc/t11/s562	§ 562.	Timing of damage measurement in connection with swap agreements, securities contracts, forward contracts, commodity contracts, repurchase agreements, and master netting agreements	None	113-21	1	0	0	0	0	0	0	0	0	302	302	0.0	False
+11	/us/usc/t11/s701	§ 701.	Interim trustee	None	113-21	1	0	0	0	0	0	0	0	0	153	153	0.0	False
+11	/us/usc/t11/s702	§ 702.	Election of trustee	None	113-21	1	0	0	0	0	0	0	0	0	263	263	0.0	False
+11	/us/usc/t11/s703	§ 703.	Successor trustee	None	113-21	1	0	0	0	0	0	0	0	0	184	184	0.0	False
+11	/us/usc/t11/s704	§ 704.	Duties of trustee	None	113-21	1	0	0	0	0	0	0	0	0	984	984	0.0	False
+11	/us/usc/t11/s705	§ 705.	Creditors’ committee	None	113-21	1	0	0	0	0	0	0	0	0	125	125	0.0	False
+11	/us/usc/t11/s706	§ 706.	Conversion	None	113-21	1	0	0	0	0	0	0	0	0	157	157	0.0	False
+11	/us/usc/t11/s721	§ 721.	Authorization to operate business	None	113-21	1	0	0	0	0	0	0	0	0	43	43	0.0	False
+11	/us/usc/t11/s722	§ 722.	Redemption	None	113-21	1	0	0	0	0	0	0	0	0	92	92	0.0	False
+11	/us/usc/t11/s723	§ 723.	Rights of partnership trustee against general partners	None	113-21	1	0	0	0	0	0	0	0	0	347	347	0.0	False
+11	/us/usc/t11/s724	§ 724.	Treatment of certain liens	None	113-21	1	0	0	0	0	0	0	0	0	550	550	0.0	False
+11	/us/usc/t11/s725	§ 725.	Disposition of certain property	None	113-21	1	0	0	0	0	0	0	0	0	70	70	0.0	False
+11	/us/usc/t11/s726	§ 726.	Distribution of property of the estate	None	113-21	1	0	0	0	0	0	0	0	0	819	819	0.0	False
+11	/us/usc/t11/s727	§ 727.	Discharge	None	113-21	1	0	0	0	0	0	0	0	0	1191	1191	0.0	False
+11	/us/usc/t11/s728	[§ 728.	Repealed. Pub. L. 109–8, title VII, § 719(b)(1), Apr. 20, 2005, 119 Stat. 133]	repealed	113-21	1	0	0	0	0	0	0	0	0	16	16	0.0	False
+11	/us/usc/t11/s741	§ 741.	Definitions for this subchapter	None	113-21	1	0	0	0	0	0	0	0	0	1180	1180	0.0	False
+11	/us/usc/t11/s742	§ 742.	Effect of section 362 of this title in this subchapter	None	113-21	1	0	0	0	0	0	0	0	0	71	71	0.0	False
+11	/us/usc/t11/s743	§ 743.	Notice	None	113-21	1	0	0	0	0	0	0	0	0	22	22	0.0	False
+11	/us/usc/t11/s744	§ 744.	Executory contracts	None	113-21	1	0	0	0	0	0	0	0	0	78	78	0.0	False
+11	/us/usc/t11/s745	§ 745.	Treatment of accounts	None	113-21	1	0	0	0	0	0	0	0	0	125	125	0.0	False
+11	/us/usc/t11/s746	§ 746.	Extent of customer claims	None	113-21	1	0	0	0	0	0	0	0	0	164	164	0.0	False
+11	/us/usc/t11/s747	§ 747.	Subordination of certain customer claims	None	113-21	1	0	0	0	0	0	0	0	0	155	155	0.0	False
+11	/us/usc/t11/s748	§ 748.	Reduction of securities to money	None	113-21	1	0	0	0	0	0	0	0	0	52	52	0.0	False
+11	/us/usc/t11/s749	§ 749.	Voidable transfers	None	113-21	1	0	0	0	0	0	0	0	0	221	221	0.0	False
+11	/us/usc/t11/s750	§ 750.	Distribution of securities	None	113-21	1	0	0	0	0	0	0	0	0	19	19	0.0	False
+11	/us/usc/t11/s751	§ 751.	Customer name securities	None	113-21	1	0	0	0	0	0	0	0	0	83	83	0.0	False
+11	/us/usc/t11/s752	§ 752.	Customer property	None	113-21	1	0	0	0	0	0	0	0	0	192	192	0.0	False
+11	/us/usc/t11/s753	§ 753.	Stockbroker liquidation and forward contract merchants, commodity brokers, stockbrokers, financial institutions, financial participants, securities clearing agencies, swap participants, repo participants, and master netting agreement participants	None	113-21	1	0	0	0	0	0	0	0	0	83	83	0.0	False
+11	/us/usc/t11/s761	§ 761.	Definitions for this subchapter	None	113-21	1	0	0	0	0	0	0	0	0	1839	1839	0.0	False
+11	/us/usc/t11/s762	§ 762.	Notice to the Commission and right to be heard	None	113-21	1	0	0	0	0	0	0	0	0	48	48	0.0	False
+11	/us/usc/t11/s763	§ 763.	Treatment of accounts	None	113-21	1	0	0	0	0	0	0	0	0	74	74	0.0	False
+11	/us/usc/t11/s764	§ 764.	Voidable transfers	None	113-21	1	0	0	0	0	0	0	0	0	226	226	0.0	False
+11	/us/usc/t11/s765	§ 765.	Customer instructions	None	113-21	1	0	0	0	0	0	0	0	0	138	138	0.0	False
+11	/us/usc/t11/s766	§ 766.	Treatment of customer property	None	113-21	1	0	0	0	0	0	0	0	0	948	948	0.0	False
+11	/us/usc/t11/s767	§ 767.	Commodity broker liquidation and forward contract merchants, commodity brokers, stockbrokers, financial institutions, financial participants, securities clearing agencies, swap participants, repo participants, and master netting agreement participants	None	113-21	1	0	0	0	0	0	0	0	0	84	84	0.0	False
+11	/us/usc/t11/s781	§ 781.	Definitions	None	113-21	1	0	0	0	0	0	0	0	0	97	97	0.0	False
+11	/us/usc/t11/s782	§ 782.	Selection of trustee	None	113-21	1	0	0	0	0	0	0	0	0	94	94	0.0	False
+11	/us/usc/t11/s783	§ 783.	Additional powers of trustee	None	113-21	1	0	0	0	0	0	0	0	0	270	270	0.0	False
+11	/us/usc/t11/s784	§ 784.	Right to be heard	None	113-21	1	0	0	0	0	0	0	0	0	44	44	0.0	False
+11	/us/usc/t11/s901	§ 901.	Applicability of other sections of this title	None	113-21	1	0	0	0	0	0	0	0	0	195	195	0.0	False
+11	/us/usc/t11/s902	§ 902.	Definitions for this chapter	None	113-21	1	0	0	0	0	0	0	0	0	307	307	0.0	False
+11	/us/usc/t11/s903	§ 903.	Reservation of State power to control municipalities	None	113-21	1	0	0	0	0	0	0	0	0	99	99	0.0	False
+11	/us/usc/t11/s904	§ 904.	Limitation on jurisdiction and powers of court	None	113-21	1	0	0	0	0	0	0	0	0	73	73	0.0	False
+11	/us/usc/t11/s921	§ 921.	Petition and proceedings relating to petition	None	113-21	1	0	0	0	0	0	0	0	0	250	250	0.0	False
+11	/us/usc/t11/s922	§ 922.	Automatic stay of enforcement of claims against the debtor	None	113-21	1	0	0	0	0	0	0	0	0	274	274	0.0	False
+11	/us/usc/t11/s923	§ 923.	Notice	None	113-21	1	0	0	0	0	0	0	0	0	88	88	0.0	False
+11	/us/usc/t11/s924	§ 924.	List of creditors	None	113-21	1	0	0	0	0	0	0	0	0	13	13	0.0	False
+11	/us/usc/t11/s925	§ 925.	Effect of list of claims	None	113-21	1	0	0	0	0	0	0	0	0	46	46	0.0	False
+11	/us/usc/t11/s926	§ 926.	Avoiding powers	None	113-21	1	0	0	0	0	0	0	0	0	83	83	0.0	False
+11	/us/usc/t11/s927	§ 927.	Limitation on recourse	None	113-21	1	0	0	0	0	0	0	0	0	44	44	0.0	False
+11	/us/usc/t11/s928	§ 928.	Post petition effect of security interest	None	113-21	1	0	0	0	0	0	0	0	0	93	93	0.0	False
+11	/us/usc/t11/s929	§ 929.	Municipal leases	None	113-21	1	0	0	0	0	0	0	0	0	49	49	0.0	False
+11	/us/usc/t11/s930	§ 930.	Dismissal	None	113-21	1	0	0	0	0	0	0	0	0	159	159	0.0	False
+11	/us/usc/t11/s941	§ 941.	Filing of plan	None	113-21	1	0	0	0	0	0	0	0	0	43	43	0.0	False
+11	/us/usc/t11/s942	§ 942.	Modification of plan	None	113-21	1	0	0	0	0	0	0	0	0	49	49	0.0	False
+11	/us/usc/t11/s943	§ 943.	Confirmation	None	113-21	1	0	0	0	0	0	0	0	0	213	213	0.0	False
+11	/us/usc/t11/s944	§ 944.	Effect of confirmation	None	113-21	1	0	0	0	0	0	0	0	0	192	192	0.0	False
+11	/us/usc/t11/s945	§ 945.	Continuing jurisdiction and closing of the case	None	113-21	1	0	0	0	0	0	0	0	0	57	57	0.0	False
+11	/us/usc/t11/s946	§ 946.	Effect of exchange of securities before the date of the filing of the petition	None	113-21	1	0	0	0	0	0	0	0	0	94	94	0.0	False
+24	/us/usc/t24/s13	§ 13.	Admission of cases for study	None	113-21	1	0	0	0	0	0	0	0	0	39	39	0.0	False
+24	/us/usc/t24/s131	§ 131.	Repealed. Pub. L. 85–857, § 14(49), Sept. 2, 1958, 72 Stat. 1271	repealed	113-21	1	0	0	0	0	0	0	0	0	14	14	0.0	False
+24	/us/usc/t24/s132	§ 132.	Repealed. Pub. L. 85–56, title XXII, § 2202(100), June 17, 1957, 71 Stat. 166	repealed	113-21	1	0	0	0	0	0	0	0	0	16	16	0.0	False
+24	/us/usc/t24/s136	§ 136.	Repealed. Pub. L. 85–56, title XXII, § 2202(1), (85), June 17, 1957, 71 Stat. 162, 165	repealed	113-21	1	0	0	0	0	0	0	0	0	18	18	0.0	False
+24	/us/usc/t24/s137	§ 137.	Repealed. July 3, 1930, ch. 863, § 7, 46 Stat. 1018	repealed	113-21	1	0	0	0	0	0	0	0	0	13	13	0.0	False
+24	/us/usc/t24/s14	§ 14.	Establishment of Navy hospitals	None	113-21	1	0	0	0	0	0	0	0	0	109	109	0.0	False
+24	/us/usc/t24/s14a	§ 14a.	Annual appropriations for maintenance, operation, and improvement of naval hospitals	None	113-21	1	0	0	0	0	0	0	0	0	45	45	0.0	False
+24	/us/usc/t24/s15	§ 15.	Superintendence of Navy hospitals	None	113-21	1	0	0	0	0	0	0	0	0	21	21	0.0	False
+24	/us/usc/t24/s151	§ 151.	Battle Mountain Sanitarium Reserve; establishment; rights to lands, not affected	None	113-21	1	0	0	0	0	0	0	0	0	197	197	0.0	False
+24	/us/usc/t24/s152	§ 152.	Name; control, rules and regulations	None	113-21	1	0	0	0	0	0	0	0	0	72	72	0.0	False
+24	/us/usc/t24/s153	§ 153.	Perfecting bona fide claims to lands; exchange of private lands	None	113-21	1	0	0	0	0	0	0	0	0	305	305	0.0	False
+24	/us/usc/t24/s154	§ 154.	Unlawful intrusion, or violation of rules and regulations	None	113-21	1	0	0	0	0	0	0	0	0	94	94	0.0	False
+24	/us/usc/t24/s16	§ 16.	Allowance of rations to Navy hospitals	None	113-21	1	0	0	0	0	0	0	0	0	49	49	0.0	False
+24	/us/usc/t24/s161	§ 161.	Repealed. Pub. L. 98–621, § 10(a), Nov. 8, 1984, 98 Stat. 3379	repealed	113-21	1	0	0	0	0	0	0	0	0	14	14	0.0	False
+24	/us/usc/t24/s165a	§ 165a.	Omitted	omitted	113-21	1	0	0	0	0	0	0	0	0	3	3	0.0	False
+24	/us/usc/t24/s166	§ 166.	Repealed. Pub. L. 98–621, § 10(b), Nov. 8, 1984, 98 Stat. 3379	repealed	113-21	1	0	0	0	0	0	0	0	0	14	14	0.0	False
+24	/us/usc/t24/s167	§ 167.	Repealed. Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 644	repealed	113-21	1	0	0	0	0	0	0	0	0	14	14	0.0	False
+24	/us/usc/t24/s168	§ 168.	Repealed. Pub. L. 98–621, § 10(c), Nov. 8, 1984, 98 Stat. 3379	repealed	113-21	1	0	0	0	0	0	0	0	0	14	14	0.0	False
+24	/us/usc/t24/s168a	§ 168a.	Repealed. Pub. L. 98–621, § 10(d)(1), Nov. 8, 1984, 98 Stat. 3379	repealed	113-21	1	0	0	0	0	0	0	0	0	14	14	0.0	False
+24	/us/usc/t24/s168b	§ 168b.	Computation of maximum amount available from Federal sources	None	113-21	1	0	0	0	0	0	0	0	0	76	76	0.0	False
+24	/us/usc/t24/s16a	§ 16a.	Additional personnel for patients of Department of Veterans Affairs in naval hospitals	None	113-21	1	0	0	0	0	0	0	0	0	61	61	0.0	False
+24	/us/usc/t24/s17	§ 17.	Government of Naval Asylum	None	113-21	1	0	0	0	0	0	0	0	0	34	34	0.0	False
+24	/us/usc/t24/s170	§ 170.	Repealed. Pub. L. 98–621, § 10(a), Nov. 8, 1984, 98 Stat. 3379	repealed	113-21	1	0	0	0	0	0	0	0	0	14	14	0.0	False
+24	/us/usc/t24/s170a	§ 170a.	Maximum amount available from Federal sources	None	113-21	1	0	0	0	0	0	0	0	0	113	113	0.0	False
+24	/us/usc/t24/s171	§ 171.	Repealed. Pub. L. 98–621, § 10(e), Nov. 8, 1984, 98 Stat. 3379	repealed	113-21	1	0	0	0	0	0	0	0	0	14	14	0.0	False
+24	/us/usc/t24/s172	§ 172.	Repealed. Pub. L. 98–621, § 10(f)(1), Nov. 8, 1984, 98 Stat. 3380	repealed	113-21	1	0	0	0	0	0	0	0	0	14	14	0.0	False
+24	/us/usc/t24/s175	§ 175.	Repealed. Pub. L. 98–621, § 10(g), Nov. 8, 1984, 98 Stat. 3380	repealed	113-21	1	0	0	0	0	0	0	0	0	14	14	0.0	False
+24	/us/usc/t24/s176	§ 176.	Repealed. Pub. L. 98–621, § 10(c), Nov. 8, 1984, 98 Stat. 3379	repealed	113-21	1	0	0	0	0	0	0	0	0	14	14	0.0	False
+24	/us/usc/t24/s177	§ 177.	Repealed. Pub. L. 98–621, § 10(h), Nov. 8, 1984, 98 Stat. 3380	repealed	113-21	1	0	0	0	0	0	0	0	0	14	14	0.0	False
+24	/us/usc/t24/s178	§ 178.	Repealed. Oct. 31, 1951, ch. 654, § 1(46), 65 Stat. 703	repealed	113-21	1	0	0	0	0	0	0	0	0	13	13	0.0	False
+24	/us/usc/t24/s179	§ 179.	Repealed. Aug. 7, 1946, ch. 770, § 1(59), 60 Stat. 871	repealed	113-21	1	0	0	0	0	0	0	0	0	13	13	0.0	False
+24	/us/usc/t24/s18	§ 18.	Rules and regulations for Army and Navy Hospital	None	113-21	1	0	0	0	0	0	0	0	0	54	54	0.0	False
+24	/us/usc/t24/s180	§ 180.	Repealed. Pub. L. 98–621, § 10(i), Nov. 8, 1984, 98 Stat. 3380	repealed	113-21	1	0	0	0	0	0	0	0	0	14	14	0.0	False
+24	/us/usc/t24/s185	§ 185.	Repealed. Pub. L. 98–621, § 10(d)(1), Nov. 8, 1984, 98 Stat. 3379	repealed	113-21	1	0	0	0	0	0	0	0	0	14	14	0.0	False
+24	/us/usc/t24/s19	§ 19.	Tubercular hospital at Fort Bayard	None	113-21	1	0	0	0	0	0	0	0	0	36	36	0.0	False
+24	/us/usc/t24/s191	§ 191.	Repealed. Pub. L. 98–621, § 10(a), Nov. 8, 1984, 98 Stat. 3379	repealed	113-21	1	0	0	0	0	0	0	0	0	14	14	0.0	False
+24	/us/usc/t24/s191a	§ 191a.	Repealed. Pub. L. 86–571, § 10(a), July 5, 1960, 74 Stat. 310	repealed	113-21	1	0	0	0	0	0	0	0	0	14	14	0.0	False
+24	/us/usc/t24/s192	§ 192.	Repealed. Pub. L. 98–621, § 10(k), Nov. 8, 1984, 98 Stat. 3380	repealed	113-21	1	0	0	0	0	0	0	0	0	14	14	0.0	False
+24	/us/usc/t24/s193	§ 193.	Repealed. July 1, 1944, ch. 373, title XIII, § 1313, 58 Stat. 714	repealed	113-21	1	0	0	0	0	0	0	0	0	15	15	0.0	False
+24	/us/usc/t24/s194	§ 194.	Repealed. Pub. L. 98–621, § 10(l), Nov. 8, 1984, 98 Stat. 3380	repealed	113-21	1	0	0	0	0	0	0	0	0	14	14	0.0	False
+24	/us/usc/t24/s195	§ 195.	Repealed. Pub. L. 98–621, § 10(f)(2), Nov. 8, 1984, 98 Stat. 3380	repealed	113-21	1	0	0	0	0	0	0	0	0	14	14	0.0	False
+24	/us/usc/t24/s195a	§ 195a.	Repealed. Pub. L. 98–621, § 10(d)(1), Nov. 8, 1984, 98 Stat. 3379	repealed	113-21	1	0	0	0	0	0	0	0	0	14	14	0.0	False
+24	/us/usc/t24/s196	§ 196.	Repealed. Pub. L. 98–621, § 10(m), Nov. 8, 1984, 98 Stat. 3380	repealed	113-21	1	0	0	0	0	0	0	0	0	14	14	0.0	False
+24	/us/usc/t24/s196a	§ 196a.	Repealed. Pub. L. 86–571, § 10(b), July 5, 1960, 74 Stat. 310	repealed	113-21	1	0	0	0	0	0	0	0	0	14	14	0.0	False
+24	/us/usc/t24/s196b	§ 196b.	Repealed. Pub. L. 98–621, § 10(n), Nov. 8, 1984, 98 Stat. 3380	repealed	113-21	1	0	0	0	0	0	0	0	0	14	14	0.0	False
+24	/us/usc/t24/s197	§ 197.	Repealed. Pub. L. 98–621, § 10(o), Nov. 8, 1984, 98 Stat. 3380	repealed	113-21	1	0	0	0	0	0	0	0	0	14	14	0.0	False
+24	/us/usc/t24/s198	§ 198.	Repealed. Pub. L. 98–621, § 10(p), Nov. 8, 1984, 98 Stat. 3381	repealed	113-21	1	0	0	0	0	0	0	0	0	14	14	0.0	False
+24	/us/usc/t24/s20	§ 20.	Discipline of patients at Army and Navy Hospital	None	113-21	1	0	0	0	0	0	0	0	0	49	49	0.0	False
+24	/us/usc/t24/s201	§ 201.	Repealed. Pub. L. 98–621, § 10(a), Nov. 8, 1984, 98 Stat. 3379	repealed	113-21	1	0	0	0	0	0	0	0	0	14	14	0.0	False
+24	/us/usc/t24/s202	§ 202.	Repealed. Pub. L. 98–621, § 10(u), Nov. 8, 1984, 98 Stat. 3381	repealed	113-21	1	0	0	0	0	0	0	0	0	14	14	0.0	False
+24	/us/usc/t24/s203	§ 203.	Repealed. Pub. L. 98–621, § 10(v), Nov. 8, 1984, 98 Stat. 3381	repealed	113-21	1	0	0	0	0	0	0	0	0	14	14	0.0	False
+24	/us/usc/t24/s204	§ 204.	Repealed. Pub. L. 98–621, § 10(a), Nov. 8, 1984, 98 Stat. 3379	repealed	113-21	1	0	0	0	0	0	0	0	0	14	14	0.0	False
+24	/us/usc/t24/s205	§ 205.	Repealed. Pub. L. 88–597, § 19(d), Sept. 15, 1964, 78 Stat. 953	repealed	113-21	1	0	0	0	0	0	0	0	0	14	14	0.0	False
+24	/us/usc/t24/s206	§ 206.	Repealed. Pub. L. 98–621, § 10(a), Nov. 8, 1984, 98 Stat. 3379	repealed	113-21	1	0	0	0	0	0	0	0	0	14	14	0.0	False
+24	/us/usc/t24/s207	§ 207.	Omitted	omitted	113-21	1	0	0	0	0	0	0	0	0	3	3	0.0	False
+24	/us/usc/t24/s21	§ 21.	Repealed. June 12, 1948, ch. 450, § 4, 62 Stat. 380	repealed	113-21	1	0	0	0	0	0	0	0	0	13	13	0.0	False
+24	/us/usc/t24/s225	§ 225.	Findings and purposes	None	113-21	1	0	0	0	0	0	0	0	0	792	792	0.0	False
+24	/us/usc/t24/s225a	§ 225a.	Definitions	None	113-21	1	0	0	0	0	0	0	0	0	170	170	0.0	False
+24	/us/usc/t24/s225c	§ 225c.	Congressional review of system implementation plan	None	113-21	1	0	0	0	0	0	0	0	0	182	182	0.0	False
+24	/us/usc/t24/s225e	§ 225e.	Conditions of employment for former employees of Hospital	None	113-21	1	0	0	0	0	0	0	0	0	626	626	0.0	False
+24	/us/usc/t24/s225f	§ 225f.	Property transfer	None	113-21	1	0	0	0	0	0	0	0	0	462	462	0.0	False
+24	/us/usc/t24/s277	§ 277.	Repealed. Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 646	repealed	113-21	1	0	0	0	0	0	0	0	0	14	14	0.0	False
+24	/us/usc/t24/s295a	§ 295a.	Arlington Memorial Amphitheater	None	113-21	1	0	0	0	0	0	0	0	0	115	115	0.0	False
+24	/us/usc/t24/s296	§ 296.	Repealed. Pub. L. 93–43, § 7(a)(9), June 18, 1973, 87 Stat. 82	repealed	113-21	1	0	0	0	0	0	0	0	0	14	14	0.0	False
+24	/us/usc/t24/s298	§ 298.	Repealed. Oct. 31, 1951, ch. 654, § 1(47), 65 Stat. 703	repealed	113-21	1	0	0	0	0	0	0	0	0	13	13	0.0	False
+24	/us/usc/t24/s30	§ 30.	Payments to donors of blood for persons undergoing treatment at Government expense	None	113-21	1	0	0	0	0	0	0	0	0	168	168	0.0	False
+24	/us/usc/t24/s301	§ 301.	Ancon Hospital to be known as Gorgas Hospital	None	113-21	1	0	0	0	0	0	0	0	0	72	72	0.0	False
+24	/us/usc/t24/s302	§ 302.	Change of name as affecting various rights; rec­ords, maps, and public documents	None	113-21	1	0	0	0	0	0	0	0	0	87	87	0.0	False
+24	/us/usc/t24/s31	§ 31.	Repealed. Aug. 10, 1956, ch. 1041, § 53, 70A Stat. 641	repealed	113-21	1	0	0	0	0	0	0	0	0	13	13	0.0	False
+24	/us/usc/t24/s321	§ 321.	Definitions	None	113-21	1	0	0	0	0	0	0	0	0	218	218	0.0	False
+24	/us/usc/t24/s323	§ 323.	Transfer and release to State of residence or legal domicile, or to relative	None	113-21	1	0	0	0	0	0	0	0	0	242	242	0.0	False
+24	/us/usc/t24/s324	§ 324.	Care and treatment of eligible persons until transfer and release	None	113-21	1	0	0	0	0	0	0	0	0	165	165	0.0	False
+24	/us/usc/t24/s325	§ 325.	Examination of persons admitted	None	113-21	1	0	0	0	0	0	0	0	0	170	170	0.0	False
+24	/us/usc/t24/s326	§ 326.	Release of patient	None	113-21	1	0	0	0	0	0	0	0	0	234	234	0.0	False
+24	/us/usc/t24/s327	§ 327.	Notification to committing court of discharge or conditional release	None	113-21	1	0	0	0	0	0	0	0	0	73	73	0.0	False
+24	/us/usc/t24/s328	§ 328.	Payment for care and treatment	None	113-21	1	0	0	0	0	0	0	0	0	313	313	0.0	False
+24	/us/usc/t24/s329	§ 329.	Availability of appropriations for transportation	None	113-21	1	0	0	0	0	0	0	0	0	86	86	0.0	False
+24	/us/usc/t24/s34	§ 34.	Hospitalization of persons outside continental limits of United States; persons entitled; availability of other facilities; rate of charges; disposition of payments	None	113-21	1	0	0	0	0	0	0	0	0	200	200	0.0	False
+24	/us/usc/t24/s35	§ 35.	Limitation of medical, surgical or hospital services	None	113-21	1	0	0	0	0	0	0	0	0	98	98	0.0	False
+24	/us/usc/t24/s36	§ 36.	Repealed. June 7, 1956, ch. 374, § 306(2), 70 Stat. 254	repealed	113-21	1	0	0	0	0	0	0	0	0	13	13	0.0	False
+24	/us/usc/t24/s37	§ 37.	Manufacture of products by patients at naval hospitals; ownership of products	None	113-21	1	0	0	0	0	0	0	0	0	102	102	0.0	False
+24	/us/usc/t24/s416a	§ 416a.	Resident Advisory Committees	None	113-21	1	0	0	0	0	0	0	0	0	207	207	0.0	False
+24	/us/usc/t24/s424	§ 424.	Repealed. Pub. L. 107–107, div. A, title XIV, § 1410(a)(5), Dec. 28, 2001, 115 Stat. 1266	repealed	113-21	1	0	0	0	0	0	0	0	0	18	18	0.0	False
+24	/us/usc/t24/s44	§ 44.	Repealed. Pub. L. 101–189, div. A, title III, § 347(1), Nov. 29, 1989, 103 Stat. 1422	repealed	113-21	1	0	0	0	0	0	0	0	0	18	18	0.0	False
+24	/us/usc/t24/s441	§ 441.	Repealed. Pub. L. 107–107, div. A, title XIV, § 1410(b)(3), Dec. 28, 2001, 115 Stat. 1266	repealed	113-21	1	0	0	0	0	0	0	0	0	18	18	0.0	False
+24	/us/usc/t24/s44a	§ 44a.	Repealed. Pub. L. 94–454, § 2(b), Oct. 2, 1976, 90 Stat. 1518	repealed	113-21	1	0	0	0	0	0	0	0	0	14	14	0.0	False
+24	/us/usc/t24/s44b	§ 44b.	Repealed. Pub. L. 101–510, div. A, title XV, § 1532(b)(4), Nov. 5, 1990, 104 Stat. 1733	repealed	113-21	1	0	0	0	0	0	0	0	0	18	18	0.0	False
+24	/us/usc/t24/s44c	§ 44c.	Repealed. Pub. L. 101–189, div. A, title III, § 347(4), Nov. 29, 1989, 103 Stat. 1422	repealed	113-21	1	0	0	0	0	0	0	0	0	18	18	0.0	False
+24	/us/usc/t24/s47	§ 47.	Repealed. Pub. L. 101–189, div. A, title III, § 347(3), Nov. 29, 1989, 103 Stat. 1422	repealed	113-21	1	0	0	0	0	0	0	0	0	18	18	0.0	False
+24	/us/usc/t24/s54	§ 54.	Repealed. Pub. L. 101–510, div. A, title XV, § 1532(b)(1), Nov. 5, 1990, 104 Stat. 1733	repealed	113-21	1	0	0	0	0	0	0	0	0	18	18	0.0	False
+24	/us/usc/t24/s58	§ 58.	Repealed. Aug. 10, 1956, ch. 1041, § 53, 70A Stat. 641	repealed	113-21	1	0	0	0	0	0	0	0	0	13	13	0.0	False
+24	/us/usc/t24/s59	§ 59.	Repealed. Pub. L. 101–510, div. A, title XV, § 1532(b)(2), Nov. 5, 1990, 104 Stat. 1733	repealed	113-21	1	0	0	0	0	0	0	0	0	18	18	0.0	False
+24	/us/usc/t24/s6	§ 6.	Pension paid to fund for benefit of naval hospital	None	113-21	1	0	0	0	0	0	0	0	0	59	59	0.0	False
+24	/us/usc/t24/s60	§ 60.	Repealed. Pub. L. 101–189, div. A, title III, § 347(2), Nov. 29, 1989, 103 Stat. 1422	repealed	113-21	1	0	0	0	0	0	0	0	0	18	18	0.0	False
+24	/us/usc/t24/s6a	§ 6a.	Disposition of amounts deducted from pensions	None	113-21	1	0	0	0	0	0	0	0	0	61	61	0.0	False
+24	/us/usc/t24/s78	§ 78.	Repealed. Pub. L. 85–56, title XXII, § 2202(58), June 17, 1957, 71 Stat. 164	repealed	113-21	1	0	0	0	0	0	0	0	0	16	16	0.0	False
+24	/us/usc/t24/s79	§ 79.	Omitted	omitted	113-21	1	0	0	0	0	0	0	0	0	3	3	0.0	False
+24	/us/usc/t24/s83	§ 83.	Repealed. Aug. 10, 1956, ch. 1041, § 53, 70A Stat. 641	repealed	113-21	1	0	0	0	0	0	0	0	0	13	13	0.0	False
+24	/us/usc/t24/s84	§ 84.	Repealed. Pub. L. 85–857, § 14(16), Sept. 2, 1958, 72 Stat. 1269	repealed	113-21	1	0	0	0	0	0	0	0	0	14	14	0.0	False
+24	/us/usc/t24/s91	§ 91.	Repealed. Pub. L. 85–857, § 14(1), Sept. 2, 1958, 72 Stat. 1268	repealed	113-21	1	0	0	0	0	0	0	0	0	14	14	0.0	False
+24	/us/usc/t24/s92	§ 92.	Repealed. Pub. L. 85–56, title XXII, § 2202(66), June 17, 1957, 71 Stat. 162	repealed	113-21	1	0	0	0	0	0	0	0	0	16	16	0.0	False
+24	/us/usc/t24/s97	§ 97.	Omitted	omitted	113-21	1	0	0	0	0	0	0	0	0	3	3	0.0	False
