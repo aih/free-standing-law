@@ -41,6 +41,9 @@ body { background: var(--paper); color: var(--ink); font: 15px/1.5 var(--sans); 
   padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); }
 header h1 { font: 600 1.75rem/1.2 var(--serif); margin: 0 0 6px; text-wrap: balance; }
 header p { margin: 0; color: var(--ink-2); max-width: 75ch; }
+header p.home { margin: 0 0 8px; font-size: .9rem; }
+a.law { text-decoration: none; }
+a.law:hover { text-decoration: underline; }
 .facts { display: flex; flex-wrap: wrap; gap: 10px 28px; margin: 16px 0 22px; font-size: .85rem; color: var(--ink-2); }
 .facts b { font: 500 1.05rem var(--mono); color: var(--ink); font-variant-numeric: tabular-nums; display: block; }
 .grid { display: grid; grid-template-columns: minmax(0, 560px) minmax(0, 1fr); gap: 24px; align-items: start; }
@@ -101,6 +104,7 @@ details.method div { max-width: 80ch; color: var(--ink-2); font-size: .9rem; }
 
 <div class="wrap">
   <header>
+    <p class="home"><a href="../../">All analyses</a></p>
     <h1>Most-amended sections of Titles 11 and 24</h1>
     <p id="lede"></p>
   </header>
@@ -216,19 +220,19 @@ function showDetail(r, which) {
   const tabs = ts.map((t, i) => `<button type="button" class="tab" data-w="${i}" aria-pressed="${which === i}">${esc(t.to)} <small>${t.editorial ? "editorial" : fmt(t.churn)}</small></button>`).join("") +
     (r.net_redline ? `<button type="button" class="tab" data-w="net" aria-pressed="${which === "net"}">${esc(r.versions[0].release)} → ${esc(r.versions.at(-1).release)} <small>net</small></button>` : "");
   let head, body;
+  const url = `https://uscode.linkedlegislation.org/app${r.identifier}`;
   if (which === "net") {
     head = `First text held (${esc(r.versions[0].release)}, ${esc(r.versions[0].date)}) against the latest (${esc(r.versions.at(-1).release)}, ${esc(r.versions.at(-1).date)}): <b>${fmt(r.net_churn)}</b> words changed net, against <b>${fmt(r.churn)}</b> counted change by change.`;
     body = r.net_redline;
   } else {
     const t = ts[which];
-    const laws = t.laws.length ? t.laws.map(l => `<span class="law">Pub. L. ${esc(l.replace("-", "–"))}</span>`).join("") : `<span class="note">no classifying law recorded</span>`;
-    head = `<b>${esc(t.from)}</b> → <b>${esc(t.to)}</b> (release point of ${esc(t.date)}): <b>${fmt(t.inserted)}</b> words inserted, <b>${fmt(t.deleted)}</b> deleted. ${laws}` +
+    const laws = t.laws.length ? t.laws.map(l => `<a class="law" href="https://statutes.linkedlegislation.org/us/pl/${esc(l.replace("-", "/"))}" target="_blank" rel="noopener">Pub. L. ${esc(l.replace("-", "–"))}</a>`).join("") : `<span class="note">no classifying law recorded</span>`;
+    head = `<a href="${url}?release=${encodeURIComponent(t.from)}" target="_blank" rel="noopener"><b>${esc(t.from)}</b></a> → <a href="${url}?release=${encodeURIComponent(t.to)}" target="_blank" rel="noopener"><b>${esc(t.to)}</b></a> (release point of ${esc(t.date)}): <b>${fmt(t.inserted)}</b> words inserted, <b>${fmt(t.deleted)}</b> deleted. ${laws}` +
       (t.status_after !== t.status_before ? ` <span class="law">status: ${esc(t.status_before || "in force")} → ${esc(t.status_after || "in force")}</span>` : "") +
       (t.editorial ? ` <span class="law">editorial: “of this …” only, not counted</span>` : "") +
       (t.caveat ? `<div class="note">${esc(t.caveat)}</div>` : "");
     body = t.redline;
   }
-  const url = `https://uscode.linkedlegislation.org/app${r.identifier}`;
   $("#detail").innerHTML = `
     <h2>Rank ${r.rank} of ${TOP.length}</h2>
     <h3>${esc(cite(r))}. ${esc(r.heading)}</h3>

@@ -15,6 +15,7 @@ how the text of each section has changed.
 | `docs/uncodified.md` | Findings from those tables, written by hand: Pub. L. 95-598's free-standing provisions and their relation to title 11, the pattern in later amending Acts, title 24 and its draft bill |
 | `tools/outdated/` | Finds provisions of a title that are outdated, no longer applicable or wrong: a scanner over OLRC's release-point USLM, a checker that renders the reviewed tables, and the method (`tools/outdated/README.md`) |
 | `analysis/outdated/` | Titles 11 and 24 at release point 119-138: `candidates/` (scanner output), `tables/t11.tsv`, `t24.tsv`, `t11-dollar-amounts.tsv` (reviewed) and `tables/t11.md`, `t24.md` (rendered); summary in `analysis/outdated/README.md` |
+| `tools/site/` | Builds the static site at freestand.linkedlegislation.org from `analysis/` and `docs/`, with U.S.C., Public Law and Statutes at Large citations linked; `.github/workflows/pages.yml` deploys it to GitHub Pages (`tools/site/README.md`) |
 
 Files under `analysis/` are generated; regenerate them rather than editing them. The exception is `analysis/outdated/tables/*.tsv`, which are reviewed by hand and checked by `tools/outdated/report.py`. `data/` holds
 caches and downloads and is not committed.
@@ -22,6 +23,17 @@ caches and downloads and is not committed.
 Python 3.11 or later with `lxml`. Commands are run from the repository root.
 
 ## Build log
+
+### 2026-11-12: static site with linked citations
+
+`tools/site/build.py` renders the analyses' Markdown to HTML, copies the data files and the
+redline viewer, writes an index, and links citations: U.S.C. sections and subsections to the US
+Code mirror, Public Laws, Statutes at Large pages and chapter-era Acts to the Statutes
+at Large site. The viewer links each change's release points and attributed laws.
+`.github/workflows/pages.yml` builds and deploys on every push to `main`.
+
+Re-check: `pip install markdown==3.7 && python3 -m tools.site.build && python3 -m
+tools.site.check_links _site`.
 
 ### 2026-11-12: outdated, inapplicable and wrong provisions in titles 11 and 24
 
