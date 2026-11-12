@@ -1,0 +1,622 @@
+{
+ "title": "24",
+ "source": "data/uscode/xml/usc24.xml",
+ "year": 2026,
+ "sections_in_force": 59,
+ "sections_with_signals": 29,
+ "counts": {
+  "date": 34,
+  "dead-ref": 2,
+  "footnote": 10,
+  "rit-note": 5,
+  "status-note": 14,
+  "term": 8
+ },
+ "signals": [
+  {
+   "section": "/us/usc/t24/s6a",
+   "num": "6a",
+   "heading": "Disposition of amounts deducted from pensions",
+   "kind": "footnote",
+   "unit": "/us/usc/t24/s6a",
+   "detail": "1 So in original. The words “home or” probably should not appear after amendment by Pub. L. 101–510, see 1990 Amendment note below.",
+   "context": "…e account of the pensioner and applied for the benefit of the fund from which such home or"
+  },
+  {
+   "section": "/us/usc/t24/s6a",
+   "num": "6a",
+   "heading": "Disposition of amounts deducted from pensions",
+   "kind": "date",
+   "unit": "/us/usc/t24/s6a",
+   "detail": "“Pensions of inmates of a naval hospital, required by law prior to July 1, 1943, to be deducted from the account of the pensioner and applied for the…”"
+  },
+  {
+   "section": "/us/usc/t24/s13",
+   "num": "13",
+   "heading": "Admission of cases for study",
+   "kind": "term",
+   "unit": "/us/usc/t24/s13",
+   "detail": "marine hospital: “There may be admitted into marine hospitals for study persons with infectious or other diseases affecting the pub…”",
+   "reason": "Public Health Service hospitals were closed or transferred by October 31, 1981 (Pub. L. 97-35, §§ 985-988; 42 U.S.C. 248b)"
+  },
+  {
+   "section": "/us/usc/t24/s14",
+   "num": "14",
+   "heading": "Establishment of Navy hospitals",
+   "kind": "term",
+   "unit": "/us/usc/t24/s14",
+   "detail": "asylum: “…require; and shall provide, at one of the establishments, a permanent asylum for disabled and decrepit Navy officers, seamen, and marines: Provide…”",
+   "reason": "The institution may have closed or been renamed"
+  },
+  {
+   "section": "/us/usc/t24/s14a",
+   "num": "14a",
+   "heading": "Annual appropriations for maintenance, operation, and improvement of naval hospitals",
+   "kind": "date",
+   "unit": "/us/usc/t24/s14a",
+   "detail": "“Commencing with the fiscal year 1944, annual appropriations in such amounts as may be necessary are author…”"
+  },
+  {
+   "section": "/us/usc/t24/s16a",
+   "num": "16a",
+   "heading": "Additional personnel for patients of Department of Veterans Affairs in naval hospitals",
+   "kind": "date",
+   "unit": "/us/usc/t24/s16a",
+   "detail": "“On and after May 29, 1945, additional commissioned, warranted, appointed, enlisted, and civilia…”"
+  },
+  {
+   "section": "/us/usc/t24/s17",
+   "num": "17",
+   "heading": "Government of Naval Asylum",
+   "kind": "term",
+   "unit": "/us/usc/t24/s17",
+   "detail": "asylum: “Government of Naval Asylum”",
+   "reason": "The institution may have closed or been renamed"
+  },
+  {
+   "section": "/us/usc/t24/s17",
+   "num": "17",
+   "heading": "Government of Naval Asylum",
+   "kind": "term",
+   "unit": "/us/usc/t24/s17",
+   "detail": "asylum: “The asylum for disabled and decrepit Navy officers, seamen, and marines shall be…”",
+   "reason": "The institution may have closed or been renamed"
+  },
+  {
+   "section": "/us/usc/t24/s18",
+   "num": "18",
+   "heading": "Rules and regulations for Army and Navy Hospital",
+   "kind": "status-note",
+   "unit": "/us/usc/t24/s18",
+   "detail": "Change of Name: Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by act July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by act Aug. 10, 1956, ch. 1041, § 53, 70A Stat. 641. Section 1 of act Aug. 10, 1956 enacted “Title 10, Armed Forces”, which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army."
+  },
+  {
+   "section": "/us/usc/t24/s20",
+   "num": "20",
+   "heading": "Discipline of patients at Army and Navy Hospital",
+   "kind": "term",
+   "unit": "/us/usc/t24/s20",
+   "detail": "Articles of War: “…, Arkansas, shall, while patients in said hospital, be subject to the rules and articles for the government of the armies of the United States.”",
+   "reason": "Replaced by the Uniform Code of Military Justice (Act of May 5, 1950, ch. 169)"
+  },
+  {
+   "section": "/us/usc/t24/s34",
+   "num": "34",
+   "heading": "Hospitalization of persons outside continental limits of United States; persons entitled; availability of other facilities; rate of charges; disposition of payments",
+   "kind": "footnote",
+   "unit": "/us/usc/t24/s34",
+   "detail": "1 See References in Text note below.",
+   "context": "…sident shall from time to time prescribe, and shall be deposited as provided in section 32"
+  },
+  {
+   "section": "/us/usc/t24/s34",
+   "num": "34",
+   "heading": "Hospitalization of persons outside continental limits of United States; persons entitled; availability of other facilities; rate of charges; disposition of payments",
+   "kind": "term",
+   "unit": "/us/usc/t24/s34",
+   "detail": "continental United States: “…ce may be provided at naval hospitals and dispensaries outside of the continental limits of the United States and in Alaska, to the officers and employees of any department or age…”",
+   "reason": "Term predates the admission of Alaska and Hawaii (1959)"
+  },
+  {
+   "section": "/us/usc/t24/s34",
+   "num": "34",
+   "heading": "Hospitalization of persons outside continental limits of United States; persons entitled; availability of other facilities; rate of charges; disposition of payments",
+   "kind": "rit-note",
+   "unit": "/us/usc/t24/s34",
+   "detail": "Section 32 of this title, referred to in text, was repealed by act June 7, 1956, ch. 374, § 306(2), 70 Stat. 254. See section 1071 et seq. of Title 10, Armed Forces."
+  },
+  {
+   "section": "/us/usc/t24/s153",
+   "num": "153",
+   "heading": "Perfecting bona fide claims to lands; exchange of private lands",
+   "kind": "date",
+   "unit": "/us/usc/t24/s153",
+   "detail": "“…boundaries of said reserve, which claims have been properly initiated prior to September 2, 1902, said claims may be perfected upon compliance with the requirements o…”"
+  },
+  {
+   "section": "/us/usc/t24/s168b",
+   "num": "168b",
+   "heading": "Computation of maximum amount available from Federal sources",
+   "kind": "footnote",
+   "unit": "/us/usc/t24/s168b",
+   "detail": "1 See References in Text note below.",
+   "context": "…through Saint Elizabeths Hospital as authorized by 24 U.S.C. 191, 196, 211, 212, 222, 253,"
+  },
+  {
+   "section": "/us/usc/t24/s168b",
+   "num": "168b",
+   "heading": "Computation of maximum amount available from Federal sources",
+   "kind": "dead-ref",
+   "unit": "/us/usc/t24/s168b",
+   "detail": "24 U.S.C. 191 -> /us/usc/t24/s191: repealed",
+   "target": "/us/usc/t24/s191",
+   "status": "repealed"
+  },
+  {
+   "section": "/us/usc/t24/s168b",
+   "num": "168b",
+   "heading": "Computation of maximum amount available from Federal sources",
+   "kind": "rit-note",
+   "unit": "/us/usc/t24/s168b",
+   "detail": "Sections 191, 196, 211, 212, and 222 of this title, referred to in text, were repealed by Pub. L. 98–621, § 10(a), (f)(2), (m), Nov. 8, 1984, 98 Stat. 3379, 3380."
+  },
+  {
+   "section": "/us/usc/t24/s170a",
+   "num": "170a",
+   "heading": "Maximum amount available from Federal sources",
+   "kind": "date",
+   "unit": "/us/usc/t24/s170a",
+   "detail": "“In fiscal year 1989 and thereafter, the maximum amount available to Saint Elizabeths Hosp…”"
+  },
+  {
+   "section": "/us/usc/t24/s225",
+   "num": "225",
+   "heading": "Findings and purposes",
+   "kind": "date",
+   "unit": "/us/usc/t24/s225/b/1",
+   "detail": "“the District of Columbia have in operation no later than October 1, 1993, an integrated coordinated mental health system in the District which…”"
+  },
+  {
+   "section": "/us/usc/t24/s225a",
+   "num": "225a",
+   "heading": "Definitions",
+   "kind": "date",
+   "unit": "/us/usc/t24/s225a/6",
+   "detail": "“The term “service coordination period” means a period beginning on October 1, 1985, and terminating on October 1, 1987.”"
+  },
+  {
+   "section": "/us/usc/t24/s225a",
+   "num": "225a",
+   "heading": "Definitions",
+   "kind": "date",
+   "unit": "/us/usc/t24/s225a/7",
+   "detail": "“The term “financial transition period” means a period beginning on October 1, 1985, and terminating on October 1, 1991.”"
+  },
+  {
+   "section": "/us/usc/t24/s225b",
+   "num": "225b",
+   "heading": "Development of plan for mental health system for the District",
+   "kind": "footnote",
+   "unit": "/us/usc/t24/s225b/e/1",
+   "detail": "1 So in original. Probably should be “responsibilities”.",
+   "context": "…ernmental Affairs of the Senate in writing of any planned shift in program responsibilites"
+  },
+  {
+   "section": "/us/usc/t24/s225b",
+   "num": "225b",
+   "heading": "Development of plan for mental health system for the District",
+   "kind": "date",
+   "unit": "/us/usc/t24/s225b/a/1",
+   "detail": "“… subsection (g) of this section and section 225g(b)(1) of this title, effective October 1, 1987, the District shall be responsible for the provision of mental health…”"
+  },
+  {
+   "section": "/us/usc/t24/s225b",
+   "num": "225b",
+   "heading": "Development of plan for mental health system for the District",
+   "kind": "date",
+   "unit": "/us/usc/t24/s225b/a/2",
+   "detail": "“Not later than October 1, 1993, the Mayor shall complete the implementation of the final system impl…”"
+  },
+  {
+   "section": "/us/usc/t24/s225b",
+   "num": "225b",
+   "heading": "Development of plan for mental health system for the District",
+   "kind": "date",
+   "unit": "/us/usc/t24/s225b/b/1",
+   "detail": "“…y system implementation plan for a comprehensive mental health system no later than 3 months from October 1, 1985, and a final implementation plan no later than 12 months from October…”"
+  },
+  {
+   "section": "/us/usc/t24/s225b",
+   "num": "225b",
+   "heading": "Development of plan for mental health system for the District",
+   "kind": "date",
+   "unit": "/us/usc/t24/s225b/b/1",
+   "detail": "“…r than 3 months from October 1, 1985, and a final implementation plan no later than 12 months from October 1, 1985.”"
+  },
+  {
+   "section": "/us/usc/t24/s225b",
+   "num": "225b",
+   "heading": "Development of plan for mental health system for the District",
+   "kind": "date",
+   "unit": "/us/usc/t24/s225b/b/2",
+   "detail": "“…hall submit the preliminary system implementation plan to the Council no later than 3 months from October 1, 1985. The Council shall review such plan and transmit written recommendati…”"
+  },
+  {
+   "section": "/us/usc/t24/s225b",
+   "num": "225b",
+   "heading": "Development of plan for mental health system for the District",
+   "kind": "date",
+   "unit": "/us/usc/t24/s225b/e/2/A",
+   "detail": "“Except as provided in subparagraph (B), after October 1, 1984, and during the service coordination period, no request for proposals…”"
+  },
+  {
+   "section": "/us/usc/t24/s225b",
+   "num": "225b",
+   "heading": "Development of plan for mental health system for the District",
+   "kind": "date",
+   "unit": "/us/usc/t24/s225b/e/2/B",
+   "detail": "“…ph (A) shall not apply to studies initiated pursuant to such circular prior to October 1, 1984.”"
+  },
+  {
+   "section": "/us/usc/t24/s225b",
+   "num": "225b",
+   "heading": "Development of plan for mental health system for the District",
+   "kind": "date",
+   "unit": "/us/usc/t24/s225b/f/2/A",
+   "detail": "“Pursuant to such physical plant audit, the Secretary shall initiate not later than October 1, 1987, and, except as provided under an agreement entered into pursuant to …”"
+  },
+  {
+   "section": "/us/usc/t24/s225b",
+   "num": "225b",
+   "heading": "Development of plan for mental health system for the District",
+   "kind": "date",
+   "unit": "/us/usc/t24/s225b/f/2/A",
+   "detail": "“…nder an agreement entered into pursuant to subparagraph (C), complete not later than October 1, 1993, such repairs and renovations to such physical plant and facility sup…”"
+  },
+  {
+   "section": "/us/usc/t24/s225b",
+   "num": "225b",
+   "heading": "Development of plan for mental health system for the District",
+   "kind": "date",
+   "unit": "/us/usc/t24/s225b/f/2/B",
+   "detail": "“At a minimum until October 1, 1987, the Secretary shall maintain all other facilities and infrastructure…”"
+  },
+  {
+   "section": "/us/usc/t24/s225b",
+   "num": "225b",
+   "heading": "Development of plan for mental health system for the District",
+   "kind": "status-note",
+   "unit": "/us/usc/t24/s225b",
+   "detail": "Change of Name: Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004. Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999."
+  },
+  {
+   "section": "/us/usc/t24/s225b",
+   "num": "225b",
+   "heading": "Development of plan for mental health system for the District",
+   "kind": "status-note",
+   "unit": "/us/usc/t24/s225b",
+   "detail": "Abolition of House Committee on the District of Columbia: Committee on the District of Columbia of House of Representatives abolished by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. References to Committee on the District of Columbia treated as referring to Committee on Government Reform and Oversight of House of Representatives, see section 1(b) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. "
+  },
+  {
+   "section": "/us/usc/t24/s225b",
+   "num": "225b",
+   "heading": "Development of plan for mental health system for the District",
+   "kind": "status-note",
+   "unit": "/us/usc/t24/s225b",
+   "detail": "Termination of Claims: Pub. L. 109–396, title I, § 102, Dec. 15, 2006, 120 Stat. 2712, provided that: “(a) In General.—Notwithstanding any other provision of law, the United States is not required to perform, or to reimburse the District of Columbia for the cost of performing, any of the following services:“(1) Repairs or renovations pursuant to section 4(f) of the Saint Elizabeths Hospital and District of Columbia Mental Health Services Act (24 U.S.C. 225b(f); sec. 44–903(f), D.C. Official Code). “(2) Preservation, maintenance, or repairs pursuant to a use permit executed on September 30, 1987, under which the Unit"
+  },
+  {
+   "section": "/us/usc/t24/s225c",
+   "num": "225c",
+   "heading": "Congressional review of system implementation plan",
+   "kind": "status-note",
+   "unit": "/us/usc/t24/s225c",
+   "detail": "Change of Name: Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004. Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999."
+  },
+  {
+   "section": "/us/usc/t24/s225c",
+   "num": "225c",
+   "heading": "Congressional review of system implementation plan",
+   "kind": "status-note",
+   "unit": "/us/usc/t24/s225c",
+   "detail": "Abolition of House Committee on the District of Columbia: Committee on the District of Columbia of House of Representatives abolished by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. References to Committee on the District of Columbia treated as referring to Committee on Government Reform and Oversight of House of Representatives, see section 1(b) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. "
+  },
+  {
+   "section": "/us/usc/t24/s225e",
+   "num": "225e",
+   "heading": "Conditions of employment for former employees of Hospital",
+   "kind": "footnote",
+   "unit": "/us/usc/t24/s225e/a/7",
+   "detail": "1 So in original. Probably should not be capitalized.",
+   "context": "…r 83 of title 5, to the same extent that such retirement system covers District Government"
+  },
+  {
+   "section": "/us/usc/t24/s225e",
+   "num": "225e",
+   "heading": "Conditions of employment for former employees of Hospital",
+   "kind": "date",
+   "unit": "/us/usc/t24/s225e/a/7",
+   "detail": "“if employed by the Federal Government before January 1, 1984, continue to be covered by the United States Civil Service Retirement…”"
+  },
+  {
+   "section": "/us/usc/t24/s225e",
+   "num": "225e",
+   "heading": "Conditions of employment for former employees of Hospital",
+   "kind": "date",
+   "unit": "/us/usc/t24/s225e/a/8",
+   "detail": "“if employed by the Federal Government on or after January 1, 1984, be subject to the retirement system applicable to District governmen…”"
+  },
+  {
+   "section": "/us/usc/t24/s225f",
+   "num": "225f",
+   "heading": "Property transfer",
+   "kind": "footnote",
+   "unit": "/us/usc/t24/s225f/a/1",
+   "detail": "1 So in original. Probably should be “identified”.",
+   "context": "… mental health and other services provided by the Department of Human Services indentified"
+  },
+  {
+   "section": "/us/usc/t24/s225f",
+   "num": "225f",
+   "heading": "Property transfer",
+   "kind": "date",
+   "unit": "/us/usc/t24/s225f/b",
+   "detail": "“On or before October 1, 1992, the Mayor shall prepare, and submit to the Committee on the District…”"
+  },
+  {
+   "section": "/us/usc/t24/s225f",
+   "num": "225f",
+   "heading": "Property transfer",
+   "kind": "status-note",
+   "unit": "/us/usc/t24/s225f",
+   "detail": "Change of Name: Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004. Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999."
+  },
+  {
+   "section": "/us/usc/t24/s225f",
+   "num": "225f",
+   "heading": "Property transfer",
+   "kind": "status-note",
+   "unit": "/us/usc/t24/s225f",
+   "detail": "Abolition of House Committee on the District of Columbia: Committee on the District of Columbia of House of Representatives abolished by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. References to Committee on the District of Columbia treated as referring to Committee on Government Reform and Oversight of House of Representatives, see section 1(b) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. "
+  },
+  {
+   "section": "/us/usc/t24/s225g",
+   "num": "225g",
+   "heading": "Financing provisions",
+   "kind": "date",
+   "unit": "/us/usc/t24/s225g/a",
+   "detail": "“…trict of Columbia comprehensive mental health system, $30,000,000 for fiscal year 1988, $24,000,000 for fiscal year 1989, $18,000,000 for fiscal year 1990, …”"
+  },
+  {
+   "section": "/us/usc/t24/s225g",
+   "num": "225g",
+   "heading": "Financing provisions",
+   "kind": "date",
+   "unit": "/us/usc/t24/s225g/a",
+   "detail": "“…ntal health system, $30,000,000 for fiscal year 1988, $24,000,000 for fiscal year 1989, $18,000,000 for fiscal year 1990, and $12,000,000 for fiscal year 19…”"
+  },
+  {
+   "section": "/us/usc/t24/s225g",
+   "num": "225g",
+   "heading": "Financing provisions",
+   "kind": "date",
+   "unit": "/us/usc/t24/s225g/a",
+   "detail": "“…r fiscal year 1988, $24,000,000 for fiscal year 1989, $18,000,000 for fiscal year 1990, and $12,000,000 for fiscal year 1991.”"
+  },
+  {
+   "section": "/us/usc/t24/s225g",
+   "num": "225g",
+   "heading": "Financing provisions",
+   "kind": "date",
+   "unit": "/us/usc/t24/s225g/a",
+   "detail": "“…scal year 1989, $18,000,000 for fiscal year 1990, and $12,000,000 for fiscal year 1991.”"
+  },
+  {
+   "section": "/us/usc/t24/s225g",
+   "num": "225g",
+   "heading": "Financing provisions",
+   "kind": "date",
+   "unit": "/us/usc/t24/s225g/b/1",
+   "detail": "“Beginning on October 1, 1987, and in each subsequent fiscal year, the appropriate Federal agency i…”"
+  },
+  {
+   "section": "/us/usc/t24/s225g",
+   "num": "225g",
+   "heading": "Financing provisions",
+   "kind": "date",
+   "unit": "/us/usc/t24/s225g/b/1/C",
+   "detail": "“…y individual referred to the system (or to Saint Elizabeths Hospital) before or after November 8, 1984.”"
+  },
+  {
+   "section": "/us/usc/t24/s225g",
+   "num": "225g",
+   "heading": "Financing provisions",
+   "kind": "date",
+   "unit": "/us/usc/t24/s225g/h/1",
+   "detail": "“…ms and causes of action against Saint Elizabeths Hospital that accrue before October 1, 1987, regardless of the date on which legal proceedings asserting such cla…”"
+  },
+  {
+   "section": "/us/usc/t24/s225g",
+   "num": "225g",
+   "heading": "Financing provisions",
+   "kind": "date",
+   "unit": "/us/usc/t24/s225g/h/1",
+   "detail": "“…responsible for any such claim against the United States that accrues before October 1, 1987, and the United States shall not compromise or settle any claim resul…”"
+  },
+  {
+   "section": "/us/usc/t24/s225g",
+   "num": "225g",
+   "heading": "Financing provisions",
+   "kind": "date",
+   "unit": "/us/usc/t24/s225g/h/2",
+   "detail": "“… that result in a judgment or award against Saint Elizabeths Hospital before October 1, 1987.”"
+  },
+  {
+   "section": "/us/usc/t24/s225g",
+   "num": "225g",
+   "heading": "Financing provisions",
+   "kind": "rit-note",
+   "unit": "/us/usc/t24/s225g",
+   "detail": "Public Law 83–472, referred to in subsec. (d), is act July 2, 1954, ch. 457, 68 Stat. 434, known as the Departments of Labor, and Health, Education, and Welfare Appropriation Act, 1955. Certain provisions of this Act relating to Saint Elizabeths Hospital and appearing at 68 Stat. 443, were repealed by section 10(d)(2) of Pub. L. 98–621 effective Oct. 1, 1987. For complete classification of this Act to the Code, see Tables."
+  },
+  {
+   "section": "/us/usc/t24/s225h",
+   "num": "225h",
+   "heading": "Buy American provisions",
+   "kind": "footnote",
+   "unit": "/us/usc/t24/s225h/b/2",
+   "detail": "1 So in original. The comma probably should not appear.",
+   "context": "An agreement referred to in paragraph (1) is any agreement,"
+  },
+  {
+   "section": "/us/usc/t24/s225h",
+   "num": "225h",
+   "heading": "Buy American provisions",
+   "kind": "footnote",
+   "unit": "/us/usc/t24/s225h/d",
+   "detail": "2 See References in Text note below.",
+   "context": "…ing June 30, 1934, and for other purposes”, approved March 3, 1933 (41 U.S.C. 10a et seq.)"
+  },
+  {
+   "section": "/us/usc/t24/s225h",
+   "num": "225h",
+   "heading": "Buy American provisions",
+   "kind": "footnote",
+   "unit": "/us/usc/t24/s225h/e",
+   "detail": "3 So in original. Probably should be followed by “subsection”.",
+   "context": "… identifiable harm to United States businesses, as identified by the President pursuant to"
+  },
+  {
+   "section": "/us/usc/t24/s225h",
+   "num": "225h",
+   "heading": "Buy American provisions",
+   "kind": "dead-ref",
+   "unit": "/us/usc/t24/s225h/d",
+   "detail": "41 U.S.C. 10a -> /us/usc/t41/s10a: no section with this identifier at the release point (it may lie inside a range of repealed sections)",
+   "target": "/us/usc/t41/s10a"
+  },
+  {
+   "section": "/us/usc/t24/s225h",
+   "num": "225h",
+   "heading": "Buy American provisions",
+   "kind": "date",
+   "unit": "/us/usc/t24/s225h/c",
+   "detail": "“… from foreign entities under this subchapter from foreign entities in fiscal years 1992 and 1993. Such report shall separately indicate the dollar value of i…”"
+  },
+  {
+   "section": "/us/usc/t24/s225h",
+   "num": "225h",
+   "heading": "Buy American provisions",
+   "kind": "date",
+   "unit": "/us/usc/t24/s225h/d",
+   "detail": "“…g appropriations for the Treasury and Post Office Departments for the fiscal year ending June 30, 1934, and for other purposes”, approved March 3, 1933 (41 U.S.C. 10a et se…”"
+  },
+  {
+   "section": "/us/usc/t24/s225h",
+   "num": "225h",
+   "heading": "Buy American provisions",
+   "kind": "rit-note",
+   "unit": "/us/usc/t24/s225h",
+   "detail": "Title III of the Act entitled “An Act making appropriations for the Treasury and Post Office Departments for the fiscal year ending June 30, 1934, and for other purposes”, approved March 3, 1933, referred to in subsec. (d), is title III of act Mar. 3, 1933, ch. 212, 47 Stat. 1520, known as the Buy American Act, which was classified generally to sections 10a, 10b, and 10c of former Title 41, Public Contracts, and was substantially repealed and restated in chapter 83 (§ 8301 et seq.) of Title 41, Public Contracts, by Pub. L. 111–350, §§ 3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. For complete classification of title III to the Code, see Short Title of 1933 Act note set out under section 101 of Title 41 and Tables. For disposition of sections of former Title 41, see Disposition Table preceding section 101 of Title 41."
+  },
+  {
+   "section": "/us/usc/t24/s301",
+   "num": "301",
+   "heading": "Ancon Hospital to be known as Gorgas Hospital",
+   "kind": "term",
+   "unit": "/us/usc/t24/s301",
+   "detail": "Canal Zone: “…r General William Crawford Gorgas, the Government hospital within the Canal Zone, near the City of Panama, known prior to March 24, 1928, as the Ancon…”",
+   "reason": "The Canal Zone ceased to exist on October 1, 1979, under the Panama Canal Treaty of 1977 (22 U.S.C. 3602(b))"
+  },
+  {
+   "section": "/us/usc/t24/s301",
+   "num": "301",
+   "heading": "Ancon Hospital to be known as Gorgas Hospital",
+   "kind": "date",
+   "unit": "/us/usc/t24/s301",
+   "detail": "“…rnment hospital within the Canal Zone, near the City of Panama, known prior to March 24, 1928, as the Ancon Hospital, shall after such date be known and designated…”"
+  },
+  {
+   "section": "/us/usc/t24/s321",
+   "num": "321",
+   "heading": "Definitions",
+   "kind": "term",
+   "unit": "/us/usc/t24/s321/d/2",
+   "detail": "obsolete term: “…the Secretary of State that such individual has been legally adjudged insane in a named foreign country, or (B) a certificate of an appropriate au…”",
+   "reason": "A term current law replaces (for example Pub. L. 111-256, Rosa's Law)"
+  },
+  {
+   "section": "/us/usc/t24/s321",
+   "num": "321",
+   "heading": "Definitions",
+   "kind": "status-note",
+   "unit": "/us/usc/t24/s321",
+   "detail": "Change of Name: “Department of Health and Human Services” substituted for “Department of Health, Education, and Welfare” in subsec. (a) and “Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsecs. (b) and (d)(2), pursuant to section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education."
+  },
+  {
+   "section": "/us/usc/t24/s322",
+   "num": "322",
+   "heading": "Reception of eligible persons at ports of entry or debarkation",
+   "kind": "status-note",
+   "unit": "/us/usc/t24/s322",
+   "detail": "Change of Name: “Secretary of Health and Human Services” substituted in text for “Secretary of Health, Education, and Welfare” pursuant to section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education."
+  },
+  {
+   "section": "/us/usc/t24/s328",
+   "num": "328",
+   "heading": "Payment for care and treatment",
+   "kind": "status-note",
+   "unit": "/us/usc/t24/s328",
+   "detail": "Change of Name: “Department of Health and Human Services” substituted in text for “Department of Health, Education, and Welfare” pursuant to section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education."
+  },
+  {
+   "section": "/us/usc/t24/s401",
+   "num": "401",
+   "heading": "Definitions",
+   "kind": "status-note",
+   "unit": "/us/usc/t24/s401",
+   "detail": "Transfer of Functions: For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6."
+  },
+  {
+   "section": "/us/usc/t24/s411",
+   "num": "411",
+   "heading": "Establishment of the Armed Forces Retirement Home",
+   "kind": "status-note",
+   "unit": "/us/usc/t24/s411",
+   "detail": "Termination of Reporting Requirements: For termination, effective Dec. 31, 2021, of provisions in subsec. (h) of this section requiring submittal of annual report to Congress, see section 1061 of Pub. L. 114–328, set out as a note under section 111 of Title 10, Armed Forces."
+  },
+  {
+   "section": "/us/usc/t24/s412",
+   "num": "412",
+   "heading": "Residents of Retirement Home",
+   "kind": "date",
+   "unit": "/us/usc/t24/s412/a/4",
+   "detail": "“Persons who served in a women’s component of the Armed Forces before June 12, 1948, and are determined under rules prescribed by the Chief Operating Off…”"
+  },
+  {
+   "section": "/us/usc/t24/s415",
+   "num": "415",
+   "heading": "Chief Operating Officer",
+   "kind": "status-note",
+   "unit": "/us/usc/t24/s415",
+   "detail": "Savings Provision: Pub. L. 104–201, div. A, title X, § 1051(b)(2), Sept. 23, 1996, 110 Stat. 2649, provided that: “The amendment made by this subsection [amending this section] shall not affect the staggered terms of members of the Armed Forces Retirement Home Board or a Local Board of the Retirement Home under section 1515(f) of such Act [subsec. (f) of this section], as such section is in effect before the date of the enactment of this Act [Sept. 23, 1996].”"
+  },
+  {
+   "section": "/us/usc/t24/s421",
+   "num": "421",
+   "heading": "Payment of residents for services",
+   "kind": "footnote",
+   "unit": "/us/usc/t24/s421/b/1",
+   "detail": "1 See References in Text note below.",
+   "context": "…ing the pay of a position or being employed in a position for the purposes of section 5532"
+  },
+  {
+   "section": "/us/usc/t24/s421",
+   "num": "421",
+   "heading": "Payment of residents for services",
+   "kind": "rit-note",
+   "unit": "/us/usc/t24/s421",
+   "detail": "Section 5532 of title 5, referred to in subsec. (b)(1), was repealed by Pub. L. 106–65, div. A, title VI, § 651(a)(1), Oct. 5, 1999, 113 Stat. 664."
+  }
+ ]
+}
