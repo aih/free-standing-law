@@ -1,0 +1,28 @@
+# Words and phrases that mark a provision for review in tools/outdated/scan.py. Case-insensitive
+# Python regular expressions. Each row: the pattern, a short label, and why it is a signal.
+pattern	label	reason
+Interstate Commerce Commission	ICC	Abolished by the ICC Termination Act of 1995 (Pub. L. 104-88, § 101, 109 Stat. 804); functions to the Surface Transportation Board
+Health, Education, and Welfare	HEW	Department redesignated Health and Human Services by Pub. L. 96-88, § 509(a) (20 U.S.C. 3508)
+Canal Zone	Canal Zone	The Canal Zone ceased to exist on October 1, 1979, under the Panama Canal Treaty of 1977 (22 U.S.C. 3602(b))
+Civil Service Commission	Civil Service Commission	Functions transferred to OPM and MSPB by Reorganization Plan No. 2 of 1978
+Bureau of the Budget	Bureau of the Budget	Redesignated the Office of Management and Budget by Reorganization Plan No. 2 of 1970
+Veterans'? ?Administration|Administrator of Veterans'? Affairs|Veterans'? Bureau	Veterans Administration	Redesignated the Department of Veterans Affairs by Pub. L. 100-527 (38 U.S.C. 301 note)
+\bWar Department\b|Department of War|Secretary of War	War Department	Redesignated the Department of the Army by the Act of July 26, 1947, § 205(a)
+Navy Department\b	Navy Department	Now the Department of the Navy
+Federal Savings and Loan Insurance Corporation|\bFSLIC\b	FSLIC	Abolished by Pub. L. 101-73, § 401 (1989)
+Federal Home Loan Bank Board	FHLBB	Abolished by Pub. L. 101-73, § 401 (1989)
+Office of Thrift Supervision	OTS	Abolished by Pub. L. 111-203, § 313 (2011)
+Resolution Trust Corporation	RTC	Terminated December 31, 1995 (12 U.S.C. 1441a(m))
+Articles of War|rules and articles for the government of the arm	Articles of War	Replaced by the Uniform Code of Military Justice (Act of May 5, 1950, ch. 169)
+continental (?:limits of the )?United States	continental United States	Term predates the admission of Alaska and Hawaii (1959)
+Territory of (?:Hawaii|Alaska)|Philippine Islands|Puerto Rico Reconstruction	former territory	The place no longer has that status
+\b(?:insane|lunatics?|idiots?|feeble-minded)\b	obsolete term	A term current law replaces (for example Pub. L. 111-256, Rosa's Law)
+\bAsylum\b	asylum	The institution may have closed or been renamed
+Bankruptcy Act\b	Bankruptcy Act	The Bankruptcy Act of 1898 was repealed by the Bankruptcy Reform Act of 1978, § 401(a)
+Federal Aviation Act of 1958	Federal Aviation Act of 1958	Repealed and restated in subtitle VII of title 49 by Pub. L. 103-272 (1994)
+Secretary of Commerce .{0,160}(?:vessel|ship)	Secretary of Commerce (maritime)	Maritime Administration functions transferred from Commerce to Transportation by Pub. L. 97-31, § 3 (1981)
+Merchant Marine Act, 1936|Ship Mortgage Act	maritime Act	Restated in title 46 by Pub. L. 109-304 (2006) and Pub. L. 100-710 (1988)
+Comptroller General .{0,30}General Accounting Office|General Accounting Office	GAO	Renamed the Government Accountability Office by Pub. L. 108-271, § 8 (2004)
+Commissioner of Social Security|Social Security Board	Social Security Board	The Board was abolished by Reorganization Plan No. 2 of 1946; check the reference
+marine hospitals?	marine hospital	Public Health Service hospitals were closed or transferred by October 31, 1981 (Pub. L. 97-35, §§ 985-988; 42 U.S.C. 248b)
+Regional Rail Reorganization Act	Regional Rail Reorganization Act	Conrail-era statute; check whether the provision cited still operates

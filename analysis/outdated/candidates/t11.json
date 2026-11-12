@@ -1,0 +1,696 @@
+{
+ "title": "11",
+ "source": "data/uscode/xml/usc11.xml",
+ "year": 2026,
+ "sections_in_force": 278,
+ "sections_with_signals": 38,
+ "counts": {
+  "date": 9,
+  "dead-ref": 2,
+  "footnote": 31,
+  "rit-note": 7,
+  "status-note": 8,
+  "term": 21
+ },
+ "signals": [
+  {
+   "section": "/us/usc/t11/s101",
+   "num": "101",
+   "heading": "Definitions",
+   "kind": "footnote",
+   "unit": "/us/usc/t11/s101/3",
+   "detail": "1 See Adjustment of Dollar Amounts notes below.",
+   "context": "…imarily of consumer debts and the value of whose nonexempt property is less than $150,000."
+  },
+  {
+   "section": "/us/usc/t11/s101",
+   "num": "101",
+   "heading": "Definitions",
+   "kind": "footnote",
+   "unit": "/us/usc/t11/s101/25/A",
+   "detail": "2 So in original. Probably should be followed by a comma.",
+   "context": "…or reverse repurchase transaction is a “repurchase agreement”, as defined in this section)"
+  },
+  {
+   "section": "/us/usc/t11/s101",
+   "num": "101",
+   "heading": "Definitions",
+   "kind": "footnote",
+   "unit": "/us/usc/t11/s101/42",
+   "detail": "3 So in original. Probably should be “or”. See 2010 Amendment note below.",
+   "context": "The term “petition” means petition filed under section 301, 302, 303 and"
+  },
+  {
+   "section": "/us/usc/t11/s101",
+   "num": "101",
+   "heading": "Definitions",
+   "kind": "footnote",
+   "unit": "/us/usc/t11/s101/56A",
+   "detail": "4 So in original.",
+   "context": ""
+  },
+  {
+   "section": "/us/usc/t11/s101",
+   "num": "101",
+   "heading": "Definitions",
+   "kind": "term",
+   "unit": "/us/usc/t11/s101/21B/C",
+   "detail": "RTC: “with respect to any insured depository institution for which the Resolution Trust Corporation has been appointed conservator or receiver, the Resolution Trust Corp…”",
+   "reason": "Terminated December 31, 1995 (12 U.S.C. 1441a(m))"
+  },
+  {
+   "section": "/us/usc/t11/s101",
+   "num": "101",
+   "heading": "Definitions",
+   "kind": "term",
+   "unit": "/us/usc/t11/s101/21B/C",
+   "detail": "RTC: “…ion Trust Corporation has been appointed conservator or receiver, the Resolution Trust Corporation; and”",
+   "reason": "Terminated December 31, 1995 (12 U.S.C. 1441a(m))"
+  },
+  {
+   "section": "/us/usc/t11/s101",
+   "num": "101",
+   "heading": "Definitions",
+   "kind": "status-note",
+   "unit": "/us/usc/t11/s101",
+   "detail": "Savings Provision: Pub. L. 109–8, title IX, § 912, as added Pub. L. 109–390, § 5(d), Dec. 12, 2006, 120 Stat. 2698, provided that: “The meanings of terms used in this title [see Tables for classification] are applicable for the purposes of this title only, and shall not be construed or applied so as to challenge or affect the characterization, definition, or treatment of any similar terms under any other statute, regulation, or rule, including the Gramm-Leach-Bliley Act [Pub. L. 106–102, see Short Title of 1999 Amendment note set out under section 1811 of Title 12, Banks and Banking], the Legal Certainty for Ban"
+  },
+  {
+   "section": "/us/usc/t11/s103",
+   "num": "103",
+   "heading": "Applicability of chapters",
+   "kind": "footnote",
+   "unit": "/us/usc/t11/s103/e",
+   "detail": "1 See References in Text note below.",
+   "context": "…ich operates, or operates as, a multilateral clearing organization pursuant to section 409"
+  },
+  {
+   "section": "/us/usc/t11/s104",
+   "num": "104",
+   "heading": "Adjustment of dollar amounts",
+   "kind": "date",
+   "unit": "/us/usc/t11/s104/b",
+   "detail": "“Not later than March 1, 1998, and at each 3-year interval ending on March 1 thereafter, the Judici…”"
+  },
+  {
+   "section": "/us/usc/t11/s109",
+   "num": "109",
+   "heading": "Who may be a debtor",
+   "kind": "footnote",
+   "unit": "/us/usc/t11/s109/b/2",
+   "detail": "1 See References in Text note below.",
+   "context": "…ich operates, or operates as, a multilateral clearing organization pursuant to section 409"
+  },
+  {
+   "section": "/us/usc/t11/s109",
+   "num": "109",
+   "heading": "Who may be a debtor",
+   "kind": "footnote",
+   "unit": "/us/usc/t11/s109/e",
+   "detail": "2 See Adjustment of Dollar Amounts notes below.",
+   "context": "…e filing of the petition, noncontingent, liquidated, unsecured debts of less than $250,000"
+  },
+  {
+   "section": "/us/usc/t11/s303",
+   "num": "303",
+   "heading": "Involuntary cases",
+   "kind": "footnote",
+   "unit": "/us/usc/t11/s303/b/1",
+   "detail": "1 See Adjustment of Dollar Amounts notes below.",
+   "context": "…senting such a holder, if such noncontingent, undisputed claims aggregate at least $10,000"
+  },
+  {
+   "section": "/us/usc/t11/s330",
+   "num": "330",
+   "heading": "Compensation of officers",
+   "kind": "date",
+   "unit": "/us/usc/t11/s330/b/2",
+   "detail": "“…trustees serving in cases after such trustees’ services are rendered. Beginning 1 year after the date of the enactment of the Bankruptcy Reform Act of 1994, such $15 shall be paid in addition to the amount paid under paragrap…”"
+  },
+  {
+   "section": "/us/usc/t11/s346",
+   "num": "346",
+   "heading": "Special provisions related to the treatment of State and local taxes",
+   "kind": "date",
+   "unit": "/us/usc/t11/s346/d",
+   "detail": "“…nate only if and to the extent that the taxable period of such debtor terminates under the Internal Revenue Code of 1986.”"
+  },
+  {
+   "section": "/us/usc/t11/s347",
+   "num": "347",
+   "heading": "Unclaimed property",
+   "kind": "footnote",
+   "unit": "/us/usc/t11/s347/a",
+   "detail": "1 So in original. See 2019 Amendment note below.",
+   "context": "…26, or 1326 of this title in a case under chapter 7, subchapter V of chapter 11, 12, or 13"
+  },
+  {
+   "section": "/us/usc/t11/s362",
+   "num": "362",
+   "heading": "Automatic stay",
+   "kind": "term",
+   "unit": "/us/usc/t11/s362/b/13",
+   "detail": "Secretary of Commerce (maritime): “…ion pursuant to chapter 11 of this title and which was brought by the Secretary of Commerce under section 31325 of title 46 (including distribution of any proceeds of sale) to foreclose a preferred ship or fleet mortgage in a vessel or a mortgage, deed of trust, or other security interest in a fishing…”",
+   "reason": "Maritime Administration functions transferred from Commerce to Transportation by Pub. L. 97-31, § 3 (1981)"
+  },
+  {
+   "section": "/us/usc/t11/s362",
+   "num": "362",
+   "heading": "Automatic stay",
+   "kind": "date",
+   "unit": "/us/usc/t11/s362/b",
+   "detail": "“…f this subsection shall apply with respect to any such petition filed on or before December 31, 1989.”"
+  },
+  {
+   "section": "/us/usc/t11/s364",
+   "num": "364",
+   "heading": "Obtaining credit",
+   "kind": "status-note",
+   "unit": "/us/usc/t11/s364",
+   "detail": "Effective and Termination Dates of 2020 Amendment: Pub. L. 116–260, div. N, title III, § 320(f), Dec. 27, 2020, 134 Stat. 2016, provided that: “(1) Effective date.—The amendments made by subsections (a) through (e) [amending this section and sections 503, 1191, 1225, and 1325 of this title] shall—“(A) take effect on the date on which the Administrator [of the Small Business Administration] submits to the Director of the Executive Office for United States Trustees a written determination that, subject to satisfying any other eligibility requirements, any debtor in possession or trustee that is authorized to operate the business of the debtor un"
+  },
+  {
+   "section": "/us/usc/t11/s503",
+   "num": "503",
+   "heading": "Allowance of administrative expenses",
+   "kind": "status-note",
+   "unit": "/us/usc/t11/s503",
+   "detail": "Effective and Termination Dates of 2020 Amendment: Amendment by section 320(b) of div. N of Pub. L. 116–260 effective on the date on which the Administrator of the Small Business Administration submits to the Director of the Executive Office for United States Trustees a written determination relating to loan eligibility under pars. (36) and (37) of section 636(a) of Title 15, Commerce and Trade, and applicable to any case pending on or commenced on or after such date, and amendment by section 320(f)(2)(A)(ii) of div. N of Pub. L. 116–260, relating to repeal of such amendment if it became effective, effective two years after Dec. 27, 2020, see "
+  },
+  {
+   "section": "/us/usc/t11/s507",
+   "num": "507",
+   "heading": "Priorities",
+   "kind": "footnote",
+   "unit": "/us/usc/t11/s507/a/2",
+   "detail": "1 See References in Text note below.",
+   "context": "…s or facilities authorized under section 13(3) of the Federal Reserve Act (12 U.S.C. 343),"
+  },
+  {
+   "section": "/us/usc/t11/s507",
+   "num": "507",
+   "heading": "Priorities",
+   "kind": "footnote",
+   "unit": "/us/usc/t11/s507/a/4",
+   "detail": "2 See Adjustment of Dollar Amounts notes below.",
+   "context": "Fourth, allowed unsecured claims, but only to the extent of $10,000"
+  },
+  {
+   "section": "/us/usc/t11/s521",
+   "num": "521",
+   "heading": "Debtor’s duties",
+   "kind": "footnote",
+   "unit": "/us/usc/t11/s521/c",
+   "detail": "1 So in original. A closing parenthesis probably should precede the comma.",
+   "context": "…est in an account in a qualified ABLE program (as defined in section 529A(b) of such Code,"
+  },
+  {
+   "section": "/us/usc/t11/s522",
+   "num": "522",
+   "heading": "Exemptions",
+   "kind": "footnote",
+   "unit": "/us/usc/t11/s522/d/1",
+   "detail": "1 See Adjustment of Dollar Amounts notes below.",
+   "context": "The debtor’s aggregate interest, not to exceed $15,000"
+  },
+  {
+   "section": "/us/usc/t11/s523",
+   "num": "523",
+   "heading": "Exceptions to discharge",
+   "kind": "footnote",
+   "unit": "/us/usc/t11/s523/a",
+   "detail": "1 So in original. Probably should be followed by a comma.",
+   "context": "A discharge under section 727, 1141, 1192"
+  },
+  {
+   "section": "/us/usc/t11/s523",
+   "num": "523",
+   "heading": "Exceptions to discharge",
+   "kind": "footnote",
+   "unit": "/us/usc/t11/s523/a/2/C/i/I",
+   "detail": "2 See Adjustment of Dollar Amounts notes below.",
+   "context": "consumer debts owed to a single creditor and aggregating more than $500"
+  },
+  {
+   "section": "/us/usc/t11/s523",
+   "num": "523",
+   "heading": "Exceptions to discharge",
+   "kind": "footnote",
+   "unit": "/us/usc/t11/s523/b",
+   "detail": "3 See References in Text note below.",
+   "context": "…section, under section 17a(1), 17a(3), or 17a(5) of the Bankruptcy Act, under section 439A"
+  },
+  {
+   "section": "/us/usc/t11/s523",
+   "num": "523",
+   "heading": "Exceptions to discharge",
+   "kind": "term",
+   "unit": "/us/usc/t11/s523/a/10",
+   "detail": "Bankruptcy Act: “…r in a prior case concerning the debtor under this title or under the Bankruptcy Act in which the debtor waived discharge, or was denied a discharge under…”",
+   "reason": "The Bankruptcy Act of 1898 was repealed by the Bankruptcy Reform Act of 1978, § 401(a)"
+  },
+  {
+   "section": "/us/usc/t11/s523",
+   "num": "523",
+   "heading": "Exceptions to discharge",
+   "kind": "term",
+   "unit": "/us/usc/t11/s523/b",
+   "detail": "Bankruptcy Act: “…a)(8) of this section, under section 17a(1), 17a(3), or 17a(5) of the Bankruptcy Act, under section 439A 33 See References in Text note below. of the High…”",
+   "reason": "The Bankruptcy Act of 1898 was repealed by the Bankruptcy Reform Act of 1978, § 401(a)"
+  },
+  {
+   "section": "/us/usc/t11/s523",
+   "num": "523",
+   "heading": "Exceptions to discharge",
+   "kind": "term",
+   "unit": "/us/usc/t11/s523/b",
+   "detail": "Bankruptcy Act: “… in a prior case concerning the debtor under this title, or under the Bankruptcy Act, is dischargeable in a case under this title unless, by the terms of …”",
+   "reason": "The Bankruptcy Act of 1898 was repealed by the Bankruptcy Reform Act of 1978, § 401(a)"
+  },
+  {
+   "section": "/us/usc/t11/s523",
+   "num": "523",
+   "heading": "Exceptions to discharge",
+   "kind": "rit-note",
+   "unit": "/us/usc/t11/s523",
+   "detail": "Section 439A of the Higher Education Act of 1965, referred to in subsec. (b), was classified to section 1087–3 of Title 20, Education, and was repealed by Pub. L. 95–598, title III, § 317, Nov. 6, 1978, 92 Stat. 2678."
+  },
+  {
+   "section": "/us/usc/t11/s523",
+   "num": "523",
+   "heading": "Exceptions to discharge",
+   "kind": "rit-note",
+   "unit": "/us/usc/t11/s523",
+   "detail": "Section 733(g) of the Public Health Service Act, referred to in subsec. (b), was repealed by Pub. L. 95–598, title III, § 327, Nov. 6, 1978, 92 Stat. 2679. A subsec. (g), containing similar provisions, was added to section 733 by Pub. L. 97–35, title XXVII, § 2730, Aug. 13, 1981, 95 Stat. 919. Section 733 was subsequently omitted in the general revision of subchapter V of chapter 6A of Title 42, The Public Health and Welfare, by Pub. L. 102–408, title I, § 102, Oct. 13, 1992, 106 Stat. 1994. See section 292f(g) of Title 42."
+  },
+  {
+   "section": "/us/usc/t11/s524",
+   "num": "524",
+   "heading": "Effect of discharge",
+   "kind": "term",
+   "unit": "/us/usc/t11/s524/b/1/A",
+   "detail": "Bankruptcy Act: “… case under this title, or a bankrupt or a debtor in a case under the Bankruptcy Act, commenced within six years of the date of the filing of the petition…”",
+   "reason": "The Bankruptcy Act of 1898 was repealed by the Bankruptcy Reform Act of 1978, § 401(a)"
+  },
+  {
+   "section": "/us/usc/t11/s525",
+   "num": "525",
+   "heading": "Protection against discriminatory treatment",
+   "kind": "term",
+   "unit": "/us/usc/t11/s525/a",
+   "detail": "Bankruptcy Act: “…as been a debtor under this title or a bankrupt or a debtor under the Bankruptcy Act, or another person with whom such bankrupt or debtor has been associa…”",
+   "reason": "The Bankruptcy Act of 1898 was repealed by the Bankruptcy Reform Act of 1978, § 401(a)"
+  },
+  {
+   "section": "/us/usc/t11/s525",
+   "num": "525",
+   "heading": "Protection against discriminatory treatment",
+   "kind": "term",
+   "unit": "/us/usc/t11/s525/a",
+   "detail": "Bankruptcy Act: “… has been a debtor under this title or a bankrupt or debtor under the Bankruptcy Act, has been insolvent before the commencement of the case under this ti…”",
+   "reason": "The Bankruptcy Act of 1898 was repealed by the Bankruptcy Reform Act of 1978, § 401(a)"
+  },
+  {
+   "section": "/us/usc/t11/s525",
+   "num": "525",
+   "heading": "Protection against discriminatory treatment",
+   "kind": "term",
+   "unit": "/us/usc/t11/s525/a",
+   "detail": "Bankruptcy Act: “…rgeable in the case under this title or that was discharged under the Bankruptcy Act.”",
+   "reason": "The Bankruptcy Act of 1898 was repealed by the Bankruptcy Reform Act of 1978, § 401(a)"
+  },
+  {
+   "section": "/us/usc/t11/s525",
+   "num": "525",
+   "heading": "Protection against discriminatory treatment",
+   "kind": "date",
+   "unit": "/us/usc/t11/s525/a",
+   "detail": "“…n Act making appropriations for the Department of Agriculture for the fiscal year ending June 30, 1944, and for other purposes,” approved July 12, 1943, a governmental unit…”"
+  },
+  {
+   "section": "/us/usc/t11/s525",
+   "num": "525",
+   "heading": "Protection against discriminatory treatment",
+   "kind": "term",
+   "unit": "/us/usc/t11/s525/b",
+   "detail": "Bankruptcy Act: “…or has been a debtor under this title, a debtor or bankrupt under the Bankruptcy Act, or an individual associated with such debtor or bankrupt, solely bec…”",
+   "reason": "The Bankruptcy Act of 1898 was repealed by the Bankruptcy Reform Act of 1978, § 401(a)"
+  },
+  {
+   "section": "/us/usc/t11/s525",
+   "num": "525",
+   "heading": "Protection against discriminatory treatment",
+   "kind": "term",
+   "unit": "/us/usc/t11/s525/b/1",
+   "detail": "Bankruptcy Act: “… has been a debtor under this title or a debtor or bankrupt under the Bankruptcy Act;”",
+   "reason": "The Bankruptcy Act of 1898 was repealed by the Bankruptcy Reform Act of 1978, § 401(a)"
+  },
+  {
+   "section": "/us/usc/t11/s525",
+   "num": "525",
+   "heading": "Protection against discriminatory treatment",
+   "kind": "term",
+   "unit": "/us/usc/t11/s525/b/3",
+   "detail": "Bankruptcy Act: “…hargeable in a case under this title or that was discharged under the Bankruptcy Act.”",
+   "reason": "The Bankruptcy Act of 1898 was repealed by the Bankruptcy Reform Act of 1978, § 401(a)"
+  },
+  {
+   "section": "/us/usc/t11/s525",
+   "num": "525",
+   "heading": "Protection against discriminatory treatment",
+   "kind": "term",
+   "unit": "/us/usc/t11/s525/c/1",
+   "detail": "Bankruptcy Act: “… has been a debtor under this title or a bankrupt or debtor under the Bankruptcy Act, or another person with whom the debtor or bankrupt has been associat…”",
+   "reason": "The Bankruptcy Act of 1898 was repealed by the Bankruptcy Reform Act of 1978, § 401(a)"
+  },
+  {
+   "section": "/us/usc/t11/s525",
+   "num": "525",
+   "heading": "Protection against discriminatory treatment",
+   "kind": "term",
+   "unit": "/us/usc/t11/s525/c/1",
+   "detail": "Bankruptcy Act: “… has been a debtor under this title or a bankrupt or debtor under the Bankruptcy Act, has been insolvent before the commencement of a case under this titl…”",
+   "reason": "The Bankruptcy Act of 1898 was repealed by the Bankruptcy Reform Act of 1978, § 401(a)"
+  },
+  {
+   "section": "/us/usc/t11/s525",
+   "num": "525",
+   "heading": "Protection against discriminatory treatment",
+   "kind": "term",
+   "unit": "/us/usc/t11/s525/c/1",
+   "detail": "Bankruptcy Act: “…rgeable in the case under this title or that was discharged under the Bankruptcy Act.”",
+   "reason": "The Bankruptcy Act of 1898 was repealed by the Bankruptcy Reform Act of 1978, § 401(a)"
+  },
+  {
+   "section": "/us/usc/t11/s541",
+   "num": "541",
+   "heading": "Property of the estate",
+   "kind": "footnote",
+   "unit": "/us/usc/t11/s541/b/3",
+   "detail": "1 See References in Text note below.",
+   "context": "…d under the Higher Education Act of 1965 (20 U.S.C. 1001 et seq.; 42 U.S.C. 2751 et seq.),"
+  },
+  {
+   "section": "/us/usc/t11/s541",
+   "num": "541",
+   "heading": "Property of the estate",
+   "kind": "footnote",
+   "unit": "/us/usc/t11/s541/b/5/C",
+   "detail": "2 See Adjustment of Dollar Amounts notes below.",
+   "context": "…ater than 365 days before such date, only so much of such funds as does not exceed $5,000;"
+  },
+  {
+   "section": "/us/usc/t11/s541",
+   "num": "541",
+   "heading": "Property of the estate",
+   "kind": "dead-ref",
+   "unit": "/us/usc/t11/s541/b/3",
+   "detail": "42 U.S.C. 2751 -> /us/usc/t42/s2751: transferred",
+   "target": "/us/usc/t42/s2751",
+   "status": "transferred"
+  },
+  {
+   "section": "/us/usc/t11/s547",
+   "num": "547",
+   "heading": "Preferences",
+   "kind": "footnote",
+   "unit": "/us/usc/t11/s547/c/9",
+   "detail": "1 See Adjustment of Dollar Amounts notes below.",
+   "context": "…alue of all property that constitutes or is affected by such transfer is less than $5,000."
+  },
+  {
+   "section": "/us/usc/t11/s548",
+   "num": "548",
+   "heading": "Fraudulent transfers and obligations",
+   "kind": "dead-ref",
+   "unit": "/us/usc/t11/s548/e/2/B",
+   "detail": "15 U.S.C. 78 -> /us/usc/t15/s78: no section with this identifier at the release point (it may lie inside a range of repealed sections)",
+   "target": "/us/usc/t15/s78"
+  },
+  {
+   "section": "/us/usc/t11/s550",
+   "num": "550",
+   "heading": "Liability of transferee of avoided transfer",
+   "kind": "footnote",
+   "unit": "/us/usc/t11/s550/b",
+   "detail": "1 So in original. Probably should be “subsection”.",
+   "context": "The trustee may not recover under section"
+  },
+  {
+   "section": "/us/usc/t11/s707",
+   "num": "707",
+   "heading": "Dismissal of a case or conversion to a case under chapter 11 or 13",
+   "kind": "footnote",
+   "unit": "/us/usc/t11/s707/b/2/A/i/I",
+   "detail": "1 See Adjustment of Dollar Amounts notes below.",
+   "context": "25 percent of the debtor’s nonpriority unsecured claims in the case, or $6,000,"
+  },
+  {
+   "section": "/us/usc/t11/s707",
+   "num": "707",
+   "heading": "Dismissal of a case or conversion to a case under chapter 11 or 13",
+   "kind": "date",
+   "unit": "/us/usc/t11/s707/b/2/D/ii",
+   "detail": "“if after September 11, 2001, the debtor while a member of a reserve component of the Armed Forces…”"
+  },
+  {
+   "section": "/us/usc/t11/s727",
+   "num": "727",
+   "heading": "Discharge",
+   "kind": "term",
+   "unit": "/us/usc/t11/s727/a/7",
+   "detail": "Bankruptcy Act: “… case, in connection with another case, under this title or under the Bankruptcy Act, concerning an insider;”",
+   "reason": "The Bankruptcy Act of 1898 was repealed by the Bankruptcy Reform Act of 1978, § 401(a)"
+  },
+  {
+   "section": "/us/usc/t11/s727",
+   "num": "727",
+   "heading": "Discharge",
+   "kind": "term",
+   "unit": "/us/usc/t11/s727/a/8",
+   "detail": "Bankruptcy Act: “…r section 1141 of this title, or under section 14, 371, or 476 of the Bankruptcy Act, in a case commenced within 8 years before the date of the filing of …”",
+   "reason": "The Bankruptcy Act of 1898 was repealed by the Bankruptcy Reform Act of 1978, § 401(a)"
+  },
+  {
+   "section": "/us/usc/t11/s727",
+   "num": "727",
+   "heading": "Discharge",
+   "kind": "term",
+   "unit": "/us/usc/t11/s727/a/9",
+   "detail": "Bankruptcy Act: “…ection 1228 or 1328 of this title, or under section 660 or 661 of the Bankruptcy Act, in a case commenced within six years before the date of the filing o…”",
+   "reason": "The Bankruptcy Act of 1898 was repealed by the Bankruptcy Reform Act of 1978, § 401(a)"
+  },
+  {
+   "section": "/us/usc/t11/s781",
+   "num": "781",
+   "heading": "Definitions",
+   "kind": "footnote",
+   "unit": "/us/usc/t11/s781/3",
+   "detail": "1 See References in Text note below.",
+   "context": "…ich operates, or operates as, a multilateral clearing organization pursuant to section 409"
+  },
+  {
+   "section": "/us/usc/t11/s781",
+   "num": "781",
+   "heading": "Definitions",
+   "kind": "rit-note",
+   "unit": "/us/usc/t11/s781",
+   "detail": "Section 409 of the Federal Deposit Insurance Corporation Improvement Act of 1991, referred to in par. (3), which was classified to section 4422 of Title 12, Banks and Banking, was repealed by Pub. L. 111–203, title VII, § 740, July 21, 2010, 124 Stat. 1729."
+  },
+  {
+   "section": "/us/usc/t11/s901",
+   "num": "901",
+   "heading": "Applicability of other sections of this title",
+   "kind": "footnote",
+   "unit": "/us/usc/t11/s901/a",
+   "detail": "1 So in original. The second comma probably should follow “350(b)”.",
+   "context": "Sections 301, 333, 344, 347(b), 349, 350(b) 351,,"
+  },
+  {
+   "section": "/us/usc/t11/s901",
+   "num": "901",
+   "heading": "Applicability of other sections of this title",
+   "kind": "footnote",
+   "unit": "/us/usc/t11/s901/b",
+   "detail": "2 See References in Text note below.",
+   "context": "…pplicable in a case under this chapter by subsection (a) of this section or section 103(e)"
+  },
+  {
+   "section": "/us/usc/t11/s901",
+   "num": "901",
+   "heading": "Applicability of other sections of this title",
+   "kind": "rit-note",
+   "unit": "/us/usc/t11/s901",
+   "detail": "Section 103(e) of this title, referred to in subsec. (b), was redesignated section 103(f) and a new section 103(e) was added by Pub. L. 106–554, § 1(a)(5) [title I, § 112(c)(5)(A)], Dec. 21, 2000, 114 Stat. 2763, 2763A–394."
+  },
+  {
+   "section": "/us/usc/t11/s902",
+   "num": "902",
+   "heading": "Definitions for this chapter",
+   "kind": "footnote",
+   "unit": "/us/usc/t11/s902/1",
+   "detail": "1 See References in Text note below.",
+   "context": "…n used in a section that is made applicable in a case under this chapter by section 103(e)"
+  },
+  {
+   "section": "/us/usc/t11/s902",
+   "num": "902",
+   "heading": "Definitions for this chapter",
+   "kind": "rit-note",
+   "unit": "/us/usc/t11/s902",
+   "detail": "Section 103(e) of this title, referred to in pars. (1) and (5), was redesignated section 103(f) and a new section 103(e) was added by Pub. L. 106–554, § 1(a)(5) [title I, § 112(c)(5)(A)], Dec. 21, 2000, 114 Stat. 2763, 2763A–394."
+  },
+  {
+   "section": "/us/usc/t11/s943",
+   "num": "943",
+   "heading": "Confirmation",
+   "kind": "footnote",
+   "unit": "/us/usc/t11/s943/b/1",
+   "detail": "1 See References in Text note below.",
+   "context": "the plan complies with the provisions of this title made applicable by sections 103(e)"
+  },
+  {
+   "section": "/us/usc/t11/s943",
+   "num": "943",
+   "heading": "Confirmation",
+   "kind": "rit-note",
+   "unit": "/us/usc/t11/s943",
+   "detail": "Section 103(e) of this title, referred to in subsec. (b)(1), was redesignated section 103(f) and a new section 103(e) was added by Pub. L. 106–554, § 1(a)(5) [title I, § 112(c)(5)(A)], Dec. 21, 2000, 114 Stat. 2763, 2763A–394."
+  },
+  {
+   "section": "/us/usc/t11/s1110",
+   "num": "1110",
+   "heading": "Aircraft equipment and vessels",
+   "kind": "date",
+   "unit": "/us/usc/t11/s1110/d",
+   "detail": "“With respect to equipment first placed in service on or before October 22, 1994, for purposes of this section—”"
+  },
+  {
+   "section": "/us/usc/t11/s1110",
+   "num": "1110",
+   "heading": "Aircraft equipment and vessels",
+   "kind": "status-note",
+   "unit": "/us/usc/t11/s1110",
+   "detail": "Abolition of Interstate Commerce Commission and Transfer of Functions: Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 1302 of Title 49, Transportation, and section 101 of Pub. L. 104–88, set out as a note under section 1301 of Title 49. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 1301 of Title 49."
+  },
+  {
+   "section": "/us/usc/t11/s1166",
+   "num": "1166",
+   "heading": "Effect of subtitle IV of title 49 and of Federal, State, or local regulations",
+   "kind": "term",
+   "unit": "/us/usc/t11/s1166/2",
+   "detail": "Regional Rail Reorganization Act: “the provisions of this chapter are subject to section 601(b) of the Regional Rail Reorganization Act of 1973.”",
+   "reason": "Conrail-era statute; check whether the provision cited still operates"
+  },
+  {
+   "section": "/us/usc/t11/s1168",
+   "num": "1168",
+   "heading": "Rolling stock equipment",
+   "kind": "date",
+   "unit": "/us/usc/t11/s1168/d",
+   "detail": "“With respect to equipment first placed in service on or prior to October 22, 1994, for purposes of this section—”"
+  },
+  {
+   "section": "/us/usc/t11/s1168",
+   "num": "1168",
+   "heading": "Rolling stock equipment",
+   "kind": "date",
+   "unit": "/us/usc/t11/s1168/e",
+   "detail": "“With respect to equipment first placed in service after October 22, 1994, for purposes of this section, the term “rolling stock equipment” inc…”"
+  },
+  {
+   "section": "/us/usc/t11/s1191",
+   "num": "1191",
+   "heading": "Confirmation of plan",
+   "kind": "footnote",
+   "unit": "/us/usc/t11/s1191/a",
+   "detail": "1 So in original. The words “of this title” probably should follow “1129(a)”.",
+   "context": "… requirements of section 1129(a), other than paragraph (15) of that section, of this title"
+  },
+  {
+   "section": "/us/usc/t11/s1191",
+   "num": "1191",
+   "heading": "Confirmation of plan",
+   "kind": "status-note",
+   "unit": "/us/usc/t11/s1191",
+   "detail": "Effective and Termination Dates of 2020 Amendment: Amendment by section 320(c) of div. N of Pub. L. 116–260 effective on the date on which the Administrator of the Small Business Administration submits to the Director of the Executive Office for United States Trustees a written determination relating to loan eligibility under pars. (36) and (37) of section 636(a) of Title 15, Commerce and Trade, and applicable to any case pending on or commenced on or after such date, and amendment by section 320(f)(2)(A)(iii) of div. N of Pub. L. 116–260, relating to repeal of such amendment if it became effective, effective two years after Dec. 27, 2020, see"
+  },
+  {
+   "section": "/us/usc/t11/s1201",
+   "num": "1201",
+   "heading": "Stay of action against codebtor",
+   "kind": "status-note",
+   "unit": "/us/usc/t11/s1201",
+   "detail": "Repeal, Reenactment, and Termination of Chapter: Pub. L. 109–8, title X, § 1001(a), (b), Apr. 20, 2005, 119 Stat. 185, 186, provided that: “(a) Reenactment.—“(1) In general.—Chapter 12 of title 11, United States Code, as reenacted by section 149 of division C of the Omnibus Consolidated and Emergency Supplemental Appropriations Act, 1999 (Public Law 105–277) [set out as a note below], and as in effect on June 30, 2005, is hereby reenacted. “(2) Effective date of reenactment.—Paragraph (1) shall take effect on July 1, 2005. “(b) Amendments—Chapter 12 of title 11, United States Code, as reenacted by subsection (a), is amended by this Act [see "
+  },
+  {
+   "section": "/us/usc/t11/s1225",
+   "num": "1225",
+   "heading": "Confirmation of plan",
+   "kind": "status-note",
+   "unit": "/us/usc/t11/s1225",
+   "detail": "Effective and Termination Dates of 2020 Amendment: Amendment by section 320(d) of div. N of Pub. L. 116–260 effective on the date on which the Administrator of the Small Business Administration submits to the Director of the Executive Office for United States Trustees a written determination relating to loan eligibility under pars. (36) and (37) of section 636(a) of Title 15, Commerce and Trade, and applicable to any case pending on or commenced on or after such date, and amendment by section 320(f)(2)(A)(iv) of div. N of Pub. L. 116–260, relating to repeal of such amendment if it became effective, effective two years after Dec. 27, 2020, see "
+  },
+  {
+   "section": "/us/usc/t11/s1226",
+   "num": "1226",
+   "heading": "Payments",
+   "kind": "footnote",
+   "unit": "/us/usc/t11/s1226/b/2",
+   "detail": "1 See References in Text note below.",
+   "context": "if a standing trustee appointed under section 1202(c)"
+  },
+  {
+   "section": "/us/usc/t11/s1226",
+   "num": "1226",
+   "heading": "Payments",
+   "kind": "rit-note",
+   "unit": "/us/usc/t11/s1226",
+   "detail": "Section 1202(c) and (d) of this title, referred to in subsec. (b)(2), was repealed by section 227 of Pub. L. 99–554, and provisions relating to appointment of and fixing percentage fees for standing trustees are contained in section 586(b) and (e) of Title 28, Judiciary and Judicial Procedure, as amended by section 113(b), (c) of Pub. L. 99–554."
+  },
+  {
+   "section": "/us/usc/t11/s1302",
+   "num": "1302",
+   "heading": "Trustee",
+   "kind": "term",
+   "unit": "/us/usc/t11/s1302/b/3",
+   "detail": "Bankruptcy Act: “…moneys received or to be received in a case under chapter XIII of the Bankruptcy Act;”",
+   "reason": "The Bankruptcy Act of 1898 was repealed by the Bankruptcy Reform Act of 1978, § 401(a)"
+  },
+  {
+   "section": "/us/usc/t11/s1322",
+   "num": "1322",
+   "heading": "Contents of plan",
+   "kind": "footnote",
+   "unit": "/us/usc/t11/s1322/d/1/C",
+   "detail": "1 See Adjustment of Dollar Amounts notes below.",
+   "context": "…an family income of the applicable State for a family of 4 or fewer individuals, plus $525"
+  },
+  {
+   "section": "/us/usc/t11/s1325",
+   "num": "1325",
+   "heading": "Confirmation of plan",
+   "kind": "footnote",
+   "unit": "/us/usc/t11/s1325/b/3/C",
+   "detail": "1 See Adjustment of Dollar Amounts notes below.",
+   "context": "…an family income of the applicable State for a family of 4 or fewer individuals, plus $525"
+  },
+  {
+   "section": "/us/usc/t11/s1325",
+   "num": "1325",
+   "heading": "Confirmation of plan",
+   "kind": "status-note",
+   "unit": "/us/usc/t11/s1325",
+   "detail": "Effective and Termination Dates of 2020 Amendment: Amendment by section 320(e) of div. N of Pub. L. 116–260 effective on the date on which the Administrator of the Small Business Administration submits to the Director of the Executive Office for United States Trustees a written determination relating to loan eligibility under pars. (36) and (37) of section 636(a) of Title 15, Commerce and Trade, and applicable to any case pending on or commenced on or after such date, and amendment by section 320(f)(2)(A)(v) of div. N of Pub. L. 116–260, relating to repeal of such amendment if it became effective, effective two years after Dec. 27, 2020, see s"
+  },
+  {
+   "section": "/us/usc/t11/s1326",
+   "num": "1326",
+   "heading": "Payments",
+   "kind": "footnote",
+   "unit": "/us/usc/t11/s1326/b/3/B/i",
+   "detail": "1 See Adjustment of Dollar Amounts notes below.",
+   "context": "$25;"
+  }
+ ]
+}
